@@ -3,9 +3,9 @@
 > ⚠️ **Synthetic dataset** created for demonstration purposes. Not actual Orange Morocco data.
 > Independent portfolio project, not affiliated with Orange.
 
-🔗 [Live dashboard](PASTE_LINK) · 📄 [PDF version](docs\Orange_Morocco_Dashboard.pdf.pdf)
+· 📄 [PDF version](docs/Orange_Morocco_Dashboard.pdf.pdf)
 
-![Executive summary](docs\Dashboard_page_3.png)
+![Executive summary](docs/Dashboard_page_3.png)
 
 ## Business questions
 1. Are we reaching our commercial targets, and where is the gap largest?
@@ -99,7 +99,7 @@ Turned the analysis into four data-backed recommendations (retention watchlist, 
 
 
 ## Tools
-Power BI · DAX · Power Query · PostgreSQL ·Visual Studio Code · Python (data generation)
+Power BI · DAX · Power Query · PostgreSQL · Visual Studio Code · Python (data generation)
 
 ## Author
-Yassamine Moudrik – [LinkedIn]([URL](https://www.linkedin.com/in/yassamine-modrik-a2ab65278/?isSelfProfile=true)) · [email](yassaminemodrik@gmail.com)
+Yassamine Moudrik – [LinkedIn](https://www.linkedin.com/in/yassamine-modrik-a2ab65278/) · [Email](mailto:yassaminemodrik@gmail.com)
