@@ -1,0 +1,501 @@
+Transaction_ID,Date,Region,City,Customer_Segment,Product_Line,Sales_Channel,Units_Sold,Unit_Price_MAD,Gross_Revenue_MAD,Discount_MAD,Net_Revenue_MAD,Gross_Margin_MAD,Payment_Method,NPS_Score,Churn_Risk_Score,Churn_Risk_Level
+OR-MAR-2026-10000,2025-01-02,Casablanca-Settat,El Jadida,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,195.77,195.77,0.0,195.77,127.25,Credit Card / CMI,7,0.39,Medium
+OR-MAR-2026-10001,2025-01-02,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,100.56,100.56,0.0,100.56,65.36,Credit Card / CMI,7,0.07,Low
+OR-MAR-2026-10002,2025-01-02,Casablanca-Settat,El Jadida,B2C - Families,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,62.66,62.66,12.53,50.13,20.05,Credit Card / CMI,6,0.25,Low
+OR-MAR-2026-10003,2025-01-04,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - Enterprise,Fibre Optique High-Speed,Authorized Retailers,1,379.66,379.66,0.0,379.66,284.74,Orange Money,7,0.12,Low
+OR-MAR-2026-10004,2025-01-06,Casablanca-Settat,Mohammedia,B2C - Families,Fibre Optique High-Speed,Authorized Retailers,1,503.97,503.97,100.79,403.18,302.38,Direct Debit (Prélèvement),3,0.69,High
+OR-MAR-2026-10005,2025-01-07,Rabat-Salé-Kénitra,Salé,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,2,106.61,213.22,21.32,191.9,124.74,Credit Card / CMI,5,0.1,Low
+OR-MAR-2026-10006,2025-01-11,Casablanca-Settat,Mohammedia,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,127.16,127.16,19.07,108.09,70.26,Orange Money,7,0.58,Medium
+OR-MAR-2026-10007,2025-01-11,Marrakech-Safi,Marrakech,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,268.81,268.81,0.0,268.81,174.73,Credit Card / CMI,5,0.13,Low
+OR-MAR-2026-10008,2025-01-16,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,104.15,104.15,10.42,93.73,60.92,Credit Card / CMI,5,0.37,Medium
+OR-MAR-2026-10009,2025-01-17,Fès-Meknès,Meknès,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,211.38,211.38,10.57,200.81,130.53,Cash in Store,4,0.54,Medium
+OR-MAR-2026-10010,2025-01-18,Marrakech-Safi,Marrakech,B2B - SME,Enterprise Cloud & 5G Solutions,B2B Field Sales,2,5845.75,11691.5,584.58,11106.92,6108.81,Direct Debit (Prélèvement),1,0.42,Medium
+OR-MAR-2026-10011,2025-01-18,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - SME,Fibre Optique High-Speed,Tele-sales / Call Center,2,633.48,1266.96,0.0,1266.96,950.22,Credit Card / CMI,2,0.08,Low
+OR-MAR-2026-10012,2025-01-21,Marrakech-Safi,Marrakech,B2C - Youth,Prepaid Recharge & Pass,B2B Field Sales,1,70.1,70.1,0.0,70.1,28.04,Orange Money,7,0.14,Low
+OR-MAR-2026-10013,2025-01-22,Casablanca-Settat,El Jadida,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),2,6566.02,13132.04,0.0,13132.04,7222.62,Direct Debit (Prélèvement),9,0.5,Medium
+OR-MAR-2026-10014,2025-01-26,Souss-Massa,Agadir,B2B - SME,Fibre Optique High-Speed,Tele-sales / Call Center,1,397.81,397.81,0.0,397.81,298.36,Direct Debit (Prélèvement),1,0.59,Medium
+OR-MAR-2026-10015,2025-01-26,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,1,462.73,462.73,0.0,462.73,347.05,Cash in Store,3,0.36,Medium
+OR-MAR-2026-10016,2025-01-27,Souss-Massa,Agadir,B2C - Premium,Enterprise Cloud & 5G Solutions,Authorized Retailers,5,3790.81,18954.05,947.7,18006.35,9903.49,Orange Money,10,0.56,Medium
+OR-MAR-2026-10017,2025-01-27,Casablanca-Settat,Casablanca,B2B - Enterprise,Prepaid Recharge & Pass,Tele-sales / Call Center,2,47.65,95.3,9.53,85.77,34.31,Credit Card / CMI,10,0.83,High
+OR-MAR-2026-10018,2025-02-03,Rabat-Salé-Kénitra,Rabat,B2C - Families,Prepaid Recharge & Pass,Orange Store / Boutique,1,90.97,90.97,18.19,72.78,29.11,Orange Money,10,0.54,Medium
+OR-MAR-2026-10019,2025-02-04,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - Enterprise,Prepaid Recharge & Pass,Tele-sales / Call Center,1,29.46,29.46,2.95,26.51,10.6,Cash in Store,5,0.24,Low
+OR-MAR-2026-10020,2025-02-04,Rabat-Salé-Kénitra,Rabat,B2B - SME,Enterprise Cloud & 5G Solutions,Authorized Retailers,3,2927.8,8783.4,439.17,8344.23,4589.33,Credit Card / CMI,3,0.67,High
+OR-MAR-2026-10021,2025-02-05,Marrakech-Safi,Safi,B2C - Families,Smart Router & Hardware Add-ons,Authorized Retailers,1,410.2,410.2,0.0,410.2,102.55,Orange Money,4,0.15,Low
+OR-MAR-2026-10022,2025-02-10,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Youth,Prepaid Recharge & Pass,Orange Store / Boutique,2,95.84,191.68,0.0,191.68,76.67,Orange Money,8,0.47,Medium
+OR-MAR-2026-10023,2025-02-10,Souss-Massa,Agadir,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,389.96,389.96,58.49,331.47,215.46,Direct Debit (Prélèvement),5,0.25,Low
+OR-MAR-2026-10024,2025-02-13,Souss-Massa,Agadir,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,1,500.76,500.76,0.0,500.76,375.57,Cash in Store,7,0.09,Low
+OR-MAR-2026-10025,2025-02-13,Souss-Massa,Agadir,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,217.36,217.36,0.0,217.36,141.28,Credit Card / CMI,4,0.42,Medium
+OR-MAR-2026-10026,2025-02-13,Casablanca-Settat,Casablanca,B2B - Enterprise,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,1285.21,1285.21,64.26,1220.95,305.24,Cash in Store,4,0.53,Medium
+OR-MAR-2026-10027,2025-02-14,Casablanca-Settat,Mohammedia,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,381.16,381.16,19.06,362.1,235.36,Credit Card / CMI,10,0.8,High
+OR-MAR-2026-10028,2025-02-15,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,211.94,211.94,42.39,169.55,110.21,Orange Money,5,0.65,High
+OR-MAR-2026-10029,2025-02-15,Souss-Massa,Agadir,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,7319.8,7319.8,0.0,7319.8,4025.89,Orange Money,7,0.74,High
+OR-MAR-2026-10030,2025-02-17,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),1,854.43,854.43,128.16,726.27,181.57,Orange Money,1,0.24,Low
+OR-MAR-2026-10031,2025-02-18,Casablanca-Settat,El Jadida,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),2,161.17,322.34,32.23,290.11,188.57,Credit Card / CMI,8,0.07,Low
+OR-MAR-2026-10032,2025-02-21,Rabat-Salé-Kénitra,Salé,B2C - Youth,Enterprise Cloud & 5G Solutions,B2B Field Sales,2,3446.77,6893.54,1378.71,5514.83,3033.16,Direct Debit (Prélèvement),1,0.16,Low
+OR-MAR-2026-10033,2025-02-21,Rabat-Salé-Kénitra,Rabat,B2C - Families,Prepaid Recharge & Pass,Authorized Retailers,1,111.53,111.53,0.0,111.53,44.61,Credit Card / CMI,6,0.54,Medium
+OR-MAR-2026-10034,2025-02-22,Rabat-Salé-Kénitra,Kénitra,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,316.92,316.92,0.0,316.92,206.0,Orange Money,3,0.61,High
+OR-MAR-2026-10035,2025-02-24,Casablanca-Settat,Casablanca,B2C - Families,Fibre Optique High-Speed,Tele-sales / Call Center,1,352.3,352.3,70.46,281.84,211.38,Direct Debit (Prélèvement),3,0.48,Medium
+OR-MAR-2026-10036,2025-02-24,Casablanca-Settat,El Jadida,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,1,528.07,528.07,26.4,501.67,376.25,Cash in Store,3,0.46,Medium
+OR-MAR-2026-10037,2025-02-26,Casablanca-Settat,Mohammedia,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,345.54,345.54,0.0,345.54,224.6,Credit Card / CMI,5,0.42,Medium
+OR-MAR-2026-10038,2025-02-27,Fès-Meknès,Fès,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,1,525.16,525.16,52.52,472.64,354.48,Orange Money,1,0.27,Low
+OR-MAR-2026-10039,2025-03-01,Casablanca-Settat,El Jadida,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,161.8,161.8,0.0,161.8,105.17,Credit Card / CMI,7,0.48,Medium
+OR-MAR-2026-10040,2025-03-03,Marrakech-Safi,Safi,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,138.94,138.94,13.89,125.05,81.28,Direct Debit (Prélèvement),2,0.41,Medium
+OR-MAR-2026-10041,2025-03-03,Rabat-Salé-Kénitra,Rabat,B2B - SME,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,43.7,43.7,4.37,39.33,15.73,Cash in Store,9,0.76,High
+OR-MAR-2026-10042,2025-03-04,Rabat-Salé-Kénitra,Salé,B2C - Youth,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),1,4838.63,4838.63,241.93,4596.7,2528.18,Orange Money,3,0.35,Medium
+OR-MAR-2026-10043,2025-03-05,Rabat-Salé-Kénitra,Salé,B2C - Youth,Prepaid Recharge & Pass,Orange Store / Boutique,1,51.77,51.77,0.0,51.77,20.71,Credit Card / CMI,5,0.13,Low
+OR-MAR-2026-10044,2025-03-05,Rabat-Salé-Kénitra,Salé,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,184.53,184.53,27.68,156.85,101.95,Cash in Store,8,0.61,High
+OR-MAR-2026-10045,2025-03-07,Casablanca-Settat,Mohammedia,B2C - Youth,Prepaid Recharge & Pass,B2B Field Sales,1,139.26,139.26,27.85,111.41,44.56,Cash in Store,2,0.5,Medium
+OR-MAR-2026-10046,2025-03-07,Rabat-Salé-Kénitra,Rabat,B2B - SME,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,2565.42,2565.42,0.0,2565.42,1410.98,Orange Money,1,0.47,Medium
+OR-MAR-2026-10047,2025-03-08,Marrakech-Safi,Safi,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,2,250.83,501.66,0.0,501.66,326.08,Credit Card / CMI,6,0.32,Medium
+OR-MAR-2026-10048,2025-03-08,Rabat-Salé-Kénitra,Salé,B2C - Youth,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,621.35,621.35,0.0,621.35,155.34,Direct Debit (Prélèvement),1,0.14,Low
+OR-MAR-2026-10049,2025-03-08,Rabat-Salé-Kénitra,Kénitra,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),3,1978.9,5936.7,593.67,5343.03,2938.67,Credit Card / CMI,8,0.84,High
+OR-MAR-2026-10050,2025-03-09,Casablanca-Settat,El Jadida,B2C - Youth,Smart Router & Hardware Add-ons,B2B Field Sales,1,1020.6,1020.6,102.06,918.54,229.64,Credit Card / CMI,5,0.21,Low
+OR-MAR-2026-10051,2025-03-09,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Families,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,6055.94,6055.94,0.0,6055.94,3330.77,Cash in Store,9,0.6,Medium
+OR-MAR-2026-10052,2025-03-09,Rabat-Salé-Kénitra,Salé,B2C - Youth,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,5755.94,5755.94,0.0,5755.94,3165.77,Direct Debit (Prélèvement),1,0.77,High
+OR-MAR-2026-10053,2025-03-09,Rabat-Salé-Kénitra,Rabat,B2C - Families,Smart Router & Hardware Add-ons,B2B Field Sales,1,923.24,923.24,138.49,784.75,196.19,Orange Money,4,0.69,High
+OR-MAR-2026-10054,2025-03-10,Rabat-Salé-Kénitra,Salé,B2C - Premium,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,6956.76,6956.76,0.0,6956.76,3826.22,Cash in Store,7,0.16,Low
+OR-MAR-2026-10055,2025-03-14,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Fibre Optique High-Speed,Authorized Retailers,1,550.85,550.85,27.54,523.31,392.48,Direct Debit (Prélèvement),8,0.53,Medium
+OR-MAR-2026-10056,2025-03-16,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Fibre Optique High-Speed,B2B Field Sales,1,412.58,412.58,0.0,412.58,309.44,Direct Debit (Prélèvement),4,0.48,Medium
+OR-MAR-2026-10057,2025-03-17,Rabat-Salé-Kénitra,Kénitra,B2C - Premium,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),1,641.52,641.52,0.0,641.52,160.38,Credit Card / CMI,10,0.52,Medium
+OR-MAR-2026-10058,2025-03-19,Casablanca-Settat,Casablanca,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,2,360.64,721.28,36.06,685.22,445.39,Direct Debit (Prélèvement),8,0.07,Low
+OR-MAR-2026-10059,2025-03-19,Casablanca-Settat,El Jadida,B2C - Youth,Prepaid Recharge & Pass,B2B Field Sales,1,75.14,75.14,11.27,63.87,25.55,Credit Card / CMI,5,0.84,High
+OR-MAR-2026-10060,2025-03-21,Casablanca-Settat,El Jadida,B2C - Youth,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,1168.9,1168.9,58.45,1110.45,277.61,Cash in Store,5,0.32,Medium
+OR-MAR-2026-10061,2025-03-21,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Fibre Optique High-Speed,Online Portal (Orange.ma),1,408.27,408.27,61.24,347.03,260.27,Cash in Store,2,0.78,High
+OR-MAR-2026-10062,2025-03-23,Casablanca-Settat,El Jadida,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,151.92,151.92,0.0,151.92,98.75,Credit Card / CMI,6,0.23,Low
+OR-MAR-2026-10063,2025-03-24,Marrakech-Safi,Marrakech,B2C - Youth,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,757.99,757.99,113.7,644.29,161.07,Orange Money,7,0.53,Medium
+OR-MAR-2026-10064,2025-03-27,Rabat-Salé-Kénitra,Kénitra,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,368.42,368.42,0.0,368.42,239.47,Orange Money,8,0.52,Medium
+OR-MAR-2026-10065,2025-04-01,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - SME,Fibre Optique High-Speed,B2B Field Sales,1,462.78,462.78,0.0,462.78,347.08,Direct Debit (Prélèvement),1,0.32,Medium
+OR-MAR-2026-10066,2025-04-05,Fès-Meknès,Meknès,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,368.23,368.23,36.82,331.41,215.42,Orange Money,7,0.58,Medium
+OR-MAR-2026-10067,2025-04-13,Rabat-Salé-Kénitra,Kénitra,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,300.57,300.57,0.0,300.57,195.37,Direct Debit (Prélèvement),3,0.57,Medium
+OR-MAR-2026-10068,2025-04-13,Marrakech-Safi,Marrakech,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,2,315.68,631.36,63.14,568.22,369.34,Credit Card / CMI,5,0.16,Low
+OR-MAR-2026-10069,2025-04-13,Casablanca-Settat,Mohammedia,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,124.65,124.65,0.0,124.65,81.02,Credit Card / CMI,4,0.56,Medium
+OR-MAR-2026-10070,2025-04-19,Fès-Meknès,Fès,B2B - SME,Prepaid Recharge & Pass,Authorized Retailers,1,63.66,63.66,0.0,63.66,25.46,Cash in Store,5,0.33,Medium
+OR-MAR-2026-10071,2025-04-22,Rabat-Salé-Kénitra,Salé,B2C - Families,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,5,2802.43,14012.15,1401.22,12610.93,6936.01,Direct Debit (Prélèvement),8,0.84,High
+OR-MAR-2026-10072,2025-04-23,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Youth,Fibre Optique High-Speed,Orange Store / Boutique,1,453.98,453.98,22.7,431.28,323.46,Credit Card / CMI,6,0.57,Medium
+OR-MAR-2026-10073,2025-04-27,Souss-Massa,Agadir,B2B - Enterprise,Fibre Optique High-Speed,Online Portal (Orange.ma),1,317.67,317.67,0.0,317.67,238.25,Credit Card / CMI,10,0.51,Medium
+OR-MAR-2026-10074,2025-04-30,Casablanca-Settat,Casablanca,B2C - Premium,Prepaid Recharge & Pass,Tele-sales / Call Center,1,127.87,127.87,0.0,127.87,51.15,Direct Debit (Prélèvement),9,0.26,Low
+OR-MAR-2026-10075,2025-05-02,Rabat-Salé-Kénitra,Rabat,B2C - Families,Prepaid Recharge & Pass,Authorized Retailers,2,42.8,85.6,0.0,85.6,34.24,Direct Debit (Prélèvement),2,0.18,Low
+OR-MAR-2026-10076,2025-05-02,Casablanca-Settat,Casablanca,B2C - Youth,Prepaid Recharge & Pass,Authorized Retailers,1,51.9,51.9,0.0,51.9,20.76,Credit Card / CMI,7,0.54,Medium
+OR-MAR-2026-10077,2025-05-03,Rabat-Salé-Kénitra,Kénitra,B2C - Premium,Smart Router & Hardware Add-ons,Authorized Retailers,1,434.0,434.0,0.0,434.0,108.5,Orange Money,3,0.72,High
+OR-MAR-2026-10078,2025-05-03,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,286.0,286.0,0.0,286.0,185.9,Cash in Store,9,0.61,High
+OR-MAR-2026-10079,2025-05-04,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,122.33,122.33,24.47,97.86,63.61,Direct Debit (Prélèvement),3,0.3,Low
+OR-MAR-2026-10080,2025-05-06,Fès-Meknès,Fès,B2B - Enterprise,Enterprise Cloud & 5G Solutions,B2B Field Sales,1,6241.09,6241.09,0.0,6241.09,3432.6,Credit Card / CMI,1,0.58,Medium
+OR-MAR-2026-10081,2025-05-06,Marrakech-Safi,Safi,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,245.83,245.83,49.17,196.66,127.83,Orange Money,10,0.52,Medium
+OR-MAR-2026-10082,2025-05-06,Casablanca-Settat,Casablanca,B2C - Families,Fibre Optique High-Speed,B2B Field Sales,1,374.14,374.14,37.41,336.73,252.55,Direct Debit (Prélèvement),7,0.69,High
+OR-MAR-2026-10083,2025-05-06,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - SME,Fibre Optique High-Speed,B2B Field Sales,1,457.97,457.97,22.9,435.07,326.3,Direct Debit (Prélèvement),2,0.76,High
+OR-MAR-2026-10084,2025-05-06,Casablanca-Settat,El Jadida,B2B - Enterprise,Fibre Optique High-Speed,Orange Store / Boutique,1,477.97,477.97,23.9,454.07,340.55,Orange Money,2,0.47,Medium
+OR-MAR-2026-10085,2025-05-06,Marrakech-Safi,Safi,B2B - Enterprise,Fibre Optique High-Speed,Tele-sales / Call Center,2,433.78,867.56,0.0,867.56,650.67,Direct Debit (Prélèvement),2,0.8,High
+OR-MAR-2026-10086,2025-05-07,Casablanca-Settat,Mohammedia,B2B - SME,Fibre Optique High-Speed,Orange Store / Boutique,1,555.88,555.88,0.0,555.88,416.91,Orange Money,9,0.66,High
+OR-MAR-2026-10087,2025-05-08,Casablanca-Settat,Casablanca,B2B - SME,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,20.44,20.44,0.0,20.44,8.18,Orange Money,2,0.24,Low
+OR-MAR-2026-10088,2025-05-08,Casablanca-Settat,Casablanca,B2C - Premium,Smart Router & Hardware Add-ons,Authorized Retailers,1,726.77,726.77,36.34,690.43,172.61,Orange Money,10,0.69,High
+OR-MAR-2026-10089,2025-05-11,Casablanca-Settat,Mohammedia,B2C - Youth,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),1,1183.2,1183.2,177.48,1005.72,251.43,Direct Debit (Prélèvement),7,0.84,High
+OR-MAR-2026-10090,2025-05-11,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,99.01,99.01,0.0,99.01,39.6,Credit Card / CMI,10,0.08,Low
+OR-MAR-2026-10091,2025-05-12,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,5797.38,5797.38,289.87,5507.51,3029.13,Credit Card / CMI,1,0.19,Low
+OR-MAR-2026-10092,2025-05-15,Rabat-Salé-Kénitra,Salé,B2C - Youth,Prepaid Recharge & Pass,Tele-sales / Call Center,1,40.01,40.01,0.0,40.01,16.0,Orange Money,9,0.77,High
+OR-MAR-2026-10093,2025-05-16,Casablanca-Settat,Casablanca,B2B - SME,Fibre Optique High-Speed,Online Portal (Orange.ma),1,358.18,358.18,0.0,358.18,268.64,Cash in Store,10,0.7,High
+OR-MAR-2026-10094,2025-05-17,Fès-Meknès,Fès,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,221.54,221.54,0.0,221.54,144.0,Cash in Store,2,0.11,Low
+OR-MAR-2026-10095,2025-05-22,Casablanca-Settat,Casablanca,B2C - Families,Smart Router & Hardware Add-ons,B2B Field Sales,2,360.52,721.04,36.05,684.99,171.25,Credit Card / CMI,3,0.33,Medium
+OR-MAR-2026-10096,2025-05-22,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,362.59,362.59,18.13,344.46,223.9,Orange Money,9,0.32,Medium
+OR-MAR-2026-10097,2025-05-23,Marrakech-Safi,Safi,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,308.7,308.7,46.3,262.4,170.56,Direct Debit (Prélèvement),9,0.07,Low
+OR-MAR-2026-10098,2025-05-23,Casablanca-Settat,El Jadida,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,371.61,371.61,18.58,353.03,229.47,Orange Money,7,0.2,Low
+OR-MAR-2026-10099,2025-05-23,Marrakech-Safi,Marrakech,B2C - Premium,Prepaid Recharge & Pass,Tele-sales / Call Center,1,35.06,35.06,0.0,35.06,14.02,Direct Debit (Prélèvement),6,0.28,Low
+OR-MAR-2026-10100,2025-05-23,Rabat-Salé-Kénitra,Salé,B2B - SME,Fibre Optique High-Speed,Authorized Retailers,2,502.05,1004.1,0.0,1004.1,753.08,Direct Debit (Prélèvement),4,0.1,Low
+OR-MAR-2026-10101,2025-05-23,Casablanca-Settat,Mohammedia,B2C - Families,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,81.56,81.56,0.0,81.56,32.62,Cash in Store,4,0.57,Medium
+OR-MAR-2026-10102,2025-05-25,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,345.45,345.45,34.54,310.91,202.09,Credit Card / CMI,7,0.41,Medium
+OR-MAR-2026-10103,2025-05-27,Rabat-Salé-Kénitra,Rabat,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,355.26,355.26,35.53,319.73,207.82,Cash in Store,2,0.67,High
+OR-MAR-2026-10104,2025-05-27,Marrakech-Safi,Marrakech,B2C - Premium,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,8231.63,8231.63,823.16,7408.47,4074.66,Orange Money,4,0.37,Medium
+OR-MAR-2026-10105,2025-05-27,Rabat-Salé-Kénitra,Kénitra,B2C - Youth,Fibre Optique High-Speed,Orange Store / Boutique,1,606.64,606.64,0.0,606.64,454.98,Direct Debit (Prélèvement),8,0.34,Medium
+OR-MAR-2026-10106,2025-06-01,Rabat-Salé-Kénitra,Kénitra,B2C - Families,Smart Router & Hardware Add-ons,B2B Field Sales,2,484.53,969.06,96.91,872.15,218.04,Orange Money,4,0.06,Low
+OR-MAR-2026-10107,2025-06-03,Casablanca-Settat,Casablanca,B2B - SME,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,1266.51,1266.51,0.0,1266.51,316.63,Credit Card / CMI,4,0.39,Medium
+OR-MAR-2026-10108,2025-06-04,Casablanca-Settat,El Jadida,B2C - Youth,Prepaid Recharge & Pass,Tele-sales / Call Center,1,62.37,62.37,0.0,62.37,24.95,Credit Card / CMI,8,0.42,Medium
+OR-MAR-2026-10109,2025-06-05,Rabat-Salé-Kénitra,Salé,B2C - Youth,Smart Router & Hardware Add-ons,Authorized Retailers,1,1020.89,1020.89,102.09,918.8,229.7,Direct Debit (Prélèvement),8,0.63,High
+OR-MAR-2026-10110,2025-06-07,Casablanca-Settat,Casablanca,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,270.27,270.27,0.0,270.27,175.68,Cash in Store,1,0.5,Medium
+OR-MAR-2026-10111,2025-06-09,Fès-Meknès,Fès,B2C - Families,Fibre Optique High-Speed,Authorized Retailers,1,284.15,284.15,0.0,284.15,213.11,Credit Card / CMI,6,0.31,Medium
+OR-MAR-2026-10112,2025-06-12,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Prepaid Recharge & Pass,B2B Field Sales,1,126.79,126.79,6.34,120.45,48.18,Orange Money,3,0.77,High
+OR-MAR-2026-10113,2025-06-12,Fès-Meknès,Fès,B2B - SME,Prepaid Recharge & Pass,Authorized Retailers,2,58.85,117.7,17.66,100.04,40.02,Cash in Store,7,0.58,Medium
+OR-MAR-2026-10114,2025-06-12,Rabat-Salé-Kénitra,Salé,B2C - Families,Enterprise Cloud & 5G Solutions,B2B Field Sales,1,4710.6,4710.6,0.0,4710.6,2590.83,Cash in Store,6,0.52,Medium
+OR-MAR-2026-10115,2025-06-12,Casablanca-Settat,Casablanca,B2B - Enterprise,Prepaid Recharge & Pass,Tele-sales / Call Center,1,62.77,62.77,6.28,56.49,22.6,Cash in Store,7,0.08,Low
+OR-MAR-2026-10116,2025-06-13,Rabat-Salé-Kénitra,Salé,B2C - Families,Prepaid Recharge & Pass,Authorized Retailers,1,63.2,63.2,0.0,63.2,25.28,Orange Money,3,0.59,Medium
+OR-MAR-2026-10117,2025-06-13,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,2,237.79,475.58,47.56,428.02,278.21,Cash in Store,5,0.33,Medium
+OR-MAR-2026-10118,2025-06-14,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,359.11,359.11,0.0,359.11,233.42,Credit Card / CMI,4,0.75,High
+OR-MAR-2026-10119,2025-06-14,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,2,276.71,553.42,0.0,553.42,359.72,Orange Money,8,0.72,High
+OR-MAR-2026-10120,2025-06-15,Casablanca-Settat,Mohammedia,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,2,170.26,340.52,0.0,340.52,221.34,Cash in Store,9,0.25,Low
+OR-MAR-2026-10121,2025-06-15,Rabat-Salé-Kénitra,Salé,B2C - Youth,Fibre Optique High-Speed,B2B Field Sales,1,392.69,392.69,0.0,392.69,294.52,Direct Debit (Prélèvement),9,0.37,Medium
+OR-MAR-2026-10122,2025-06-15,Marrakech-Safi,Marrakech,B2C - Families,Prepaid Recharge & Pass,B2B Field Sales,1,97.83,97.83,0.0,97.83,39.13,Cash in Store,3,0.4,Medium
+OR-MAR-2026-10123,2025-06-15,Rabat-Salé-Kénitra,Salé,B2C - Youth,Prepaid Recharge & Pass,Authorized Retailers,1,38.95,38.95,1.95,37.0,14.8,Cash in Store,9,0.18,Low
+OR-MAR-2026-10124,2025-06-19,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Prepaid Recharge & Pass,Authorized Retailers,1,106.29,106.29,10.63,95.66,38.26,Orange Money,6,0.21,Low
+OR-MAR-2026-10125,2025-06-21,Casablanca-Settat,Mohammedia,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,2,258.35,516.7,0.0,516.7,335.86,Orange Money,5,0.12,Low
+OR-MAR-2026-10126,2025-06-21,Rabat-Salé-Kénitra,Salé,B2C - Youth,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,71.66,71.66,3.58,68.08,27.23,Direct Debit (Prélèvement),2,0.83,High
+OR-MAR-2026-10127,2025-06-21,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Fibre Optique High-Speed,Tele-sales / Call Center,1,386.06,386.06,0.0,386.06,289.54,Direct Debit (Prélèvement),2,0.21,Low
+OR-MAR-2026-10128,2025-06-22,Casablanca-Settat,Casablanca,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,300.78,300.78,45.12,255.66,166.18,Direct Debit (Prélèvement),7,0.83,High
+OR-MAR-2026-10129,2025-06-23,Marrakech-Safi,Safi,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,2,348.26,696.52,69.65,626.87,407.47,Direct Debit (Prélèvement),4,0.59,Medium
+OR-MAR-2026-10130,2025-06-26,Fès-Meknès,Meknès,B2C - Youth,Fibre Optique High-Speed,Online Portal (Orange.ma),1,509.49,509.49,25.47,484.02,363.02,Cash in Store,1,0.38,Medium
+OR-MAR-2026-10131,2025-06-27,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Prepaid Recharge & Pass,Authorized Retailers,2,116.0,232.0,0.0,232.0,92.8,Orange Money,6,0.77,High
+OR-MAR-2026-10132,2025-07-01,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Youth,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,3942.41,3942.41,197.12,3745.29,2059.91,Orange Money,10,0.37,Medium
+OR-MAR-2026-10133,2025-07-02,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Fibre Optique High-Speed,Online Portal (Orange.ma),1,344.02,344.02,0.0,344.02,258.02,Credit Card / CMI,3,0.18,Low
+OR-MAR-2026-10134,2025-07-02,Marrakech-Safi,Safi,B2B - Enterprise,Fibre Optique High-Speed,Authorized Retailers,2,465.95,931.9,93.19,838.71,629.03,Orange Money,10,0.14,Low
+OR-MAR-2026-10135,2025-07-06,Rabat-Salé-Kénitra,Rabat,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,242.01,242.01,12.1,229.91,149.44,Direct Debit (Prélèvement),5,0.21,Low
+OR-MAR-2026-10136,2025-07-06,Fès-Meknès,Fès,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,3,2977.42,8932.26,0.0,8932.26,4912.74,Credit Card / CMI,6,0.21,Low
+OR-MAR-2026-10137,2025-07-06,Rabat-Salé-Kénitra,Rabat,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,191.19,191.19,9.56,181.63,118.06,Orange Money,2,0.37,Medium
+OR-MAR-2026-10138,2025-07-07,Rabat-Salé-Kénitra,Rabat,B2C - Families,Fibre Optique High-Speed,Orange Store / Boutique,2,298.29,596.58,59.66,536.92,402.69,Cash in Store,10,0.78,High
+OR-MAR-2026-10139,2025-07-07,Rabat-Salé-Kénitra,Kénitra,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,3926.62,3926.62,0.0,3926.62,2159.64,Credit Card / CMI,6,0.52,Medium
+OR-MAR-2026-10140,2025-07-10,Casablanca-Settat,Mohammedia,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,2,207.23,414.46,41.45,373.01,242.46,Cash in Store,5,0.29,Low
+OR-MAR-2026-10141,2025-07-11,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - Enterprise,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,125.24,125.24,0.0,125.24,50.1,Credit Card / CMI,1,0.64,High
+OR-MAR-2026-10142,2025-07-11,Rabat-Salé-Kénitra,Rabat,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,106.09,106.09,5.3,100.79,65.51,Orange Money,9,0.36,Medium
+OR-MAR-2026-10143,2025-07-12,Casablanca-Settat,Casablanca,B2C - Youth,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,435.44,435.44,0.0,435.44,108.86,Cash in Store,1,0.06,Low
+OR-MAR-2026-10144,2025-07-12,Casablanca-Settat,El Jadida,B2B - Enterprise,Prepaid Recharge & Pass,Authorized Retailers,2,63.84,127.68,12.77,114.91,45.96,Orange Money,1,0.53,Medium
+OR-MAR-2026-10145,2025-07-12,Casablanca-Settat,El Jadida,B2B - Enterprise,Fibre Optique High-Speed,Authorized Retailers,1,495.86,495.86,49.59,446.27,334.7,Cash in Store,5,0.27,Low
+OR-MAR-2026-10146,2025-07-14,Marrakech-Safi,Safi,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,236.06,236.06,0.0,236.06,153.44,Credit Card / CMI,6,0.5,Medium
+OR-MAR-2026-10147,2025-07-19,Rabat-Salé-Kénitra,Salé,B2C - Families,Prepaid Recharge & Pass,Orange Store / Boutique,1,144.49,144.49,7.22,137.27,54.91,Cash in Store,9,0.71,High
+OR-MAR-2026-10148,2025-07-20,Casablanca-Settat,El Jadida,B2B - SME,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,533.64,533.64,0.0,533.64,133.41,Orange Money,8,0.66,High
+OR-MAR-2026-10149,2025-07-20,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,176.11,176.11,26.42,149.69,97.3,Orange Money,6,0.18,Low
+OR-MAR-2026-10150,2025-07-22,Casablanca-Settat,Casablanca,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,201.5,201.5,0.0,201.5,130.98,Cash in Store,1,0.29,Low
+OR-MAR-2026-10151,2025-07-22,Casablanca-Settat,Mohammedia,B2B - Enterprise,Prepaid Recharge & Pass,Authorized Retailers,2,87.04,174.08,0.0,174.08,69.63,Direct Debit (Prélèvement),4,0.22,Low
+OR-MAR-2026-10152,2025-07-22,Rabat-Salé-Kénitra,Salé,B2B - SME,Enterprise Cloud & 5G Solutions,B2B Field Sales,3,3978.55,11935.65,1790.35,10145.3,5579.92,Direct Debit (Prélèvement),9,0.31,Medium
+OR-MAR-2026-10153,2025-07-22,Casablanca-Settat,Mohammedia,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,386.2,386.2,57.93,328.27,213.38,Direct Debit (Prélèvement),6,0.3,Low
+OR-MAR-2026-10154,2025-07-24,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,7254.13,7254.13,1450.83,5803.3,3191.82,Orange Money,5,0.15,Low
+OR-MAR-2026-10155,2025-07-24,Casablanca-Settat,Casablanca,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,122.99,122.99,0.0,122.99,79.94,Cash in Store,4,0.4,Medium
+OR-MAR-2026-10156,2025-07-24,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,284.88,284.88,0.0,284.88,185.17,Orange Money,3,0.2,Low
+OR-MAR-2026-10157,2025-07-24,Casablanca-Settat,El Jadida,B2C - Premium,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,5722.33,5722.33,0.0,5722.33,3147.28,Credit Card / CMI,5,0.15,Low
+OR-MAR-2026-10158,2025-07-25,Casablanca-Settat,El Jadida,B2B - Enterprise,Prepaid Recharge & Pass,Orange Store / Boutique,1,28.1,28.1,5.62,22.48,8.99,Orange Money,7,0.23,Low
+OR-MAR-2026-10159,2025-07-26,Marrakech-Safi,Safi,B2C - Premium,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,2,6487.52,12975.04,0.0,12975.04,7136.27,Credit Card / CMI,7,0.47,Medium
+OR-MAR-2026-10160,2025-07-26,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - Enterprise,Fibre Optique High-Speed,Tele-sales / Call Center,1,634.53,634.53,0.0,634.53,475.9,Cash in Store,10,0.59,Medium
+OR-MAR-2026-10161,2025-07-29,Rabat-Salé-Kénitra,Rabat,B2B - Enterprise,Fibre Optique High-Speed,Tele-sales / Call Center,1,582.72,582.72,0.0,582.72,437.04,Orange Money,4,0.35,Medium
+OR-MAR-2026-10162,2025-07-31,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Fibre Optique High-Speed,Online Portal (Orange.ma),1,355.41,355.41,0.0,355.41,266.56,Orange Money,2,0.43,Medium
+OR-MAR-2026-10163,2025-08-03,Marrakech-Safi,Marrakech,B2C - Youth,Fibre Optique High-Speed,Orange Store / Boutique,2,563.01,1126.02,225.2,900.82,675.62,Cash in Store,9,0.6,Medium
+OR-MAR-2026-10164,2025-08-04,Casablanca-Settat,Casablanca,B2C - Families,Enterprise Cloud & 5G Solutions,B2B Field Sales,3,1480.51,4441.53,0.0,4441.53,2442.84,Cash in Store,8,0.77,High
+OR-MAR-2026-10165,2025-08-04,Casablanca-Settat,Casablanca,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,254.52,254.52,25.45,229.07,148.9,Orange Money,8,0.08,Low
+OR-MAR-2026-10166,2025-08-06,Marrakech-Safi,Marrakech,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,120.38,120.38,24.08,96.3,62.6,Direct Debit (Prélèvement),4,0.33,Medium
+OR-MAR-2026-10167,2025-08-07,Fès-Meknès,Fès,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,151.23,151.23,7.56,143.67,93.39,Cash in Store,1,0.29,Low
+OR-MAR-2026-10168,2025-08-07,Casablanca-Settat,Casablanca,B2C - Youth,Fibre Optique High-Speed,Orange Store / Boutique,1,331.27,331.27,16.56,314.71,236.03,Credit Card / CMI,9,0.47,Medium
+OR-MAR-2026-10169,2025-08-07,Fès-Meknès,Meknès,B2B - SME,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,5,3337.6,16688.0,834.4,15853.6,8719.48,Direct Debit (Prélèvement),2,0.15,Low
+OR-MAR-2026-10170,2025-08-07,Casablanca-Settat,Mohammedia,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,210.65,210.65,0.0,210.65,136.92,Cash in Store,6,0.27,Low
+OR-MAR-2026-10171,2025-08-09,Casablanca-Settat,El Jadida,B2B - SME,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,5914.42,5914.42,591.44,5322.98,2927.64,Orange Money,9,0.49,Medium
+OR-MAR-2026-10172,2025-08-11,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Smart Router & Hardware Add-ons,B2B Field Sales,1,1047.19,1047.19,0.0,1047.19,261.8,Orange Money,9,0.8,High
+OR-MAR-2026-10173,2025-08-12,Marrakech-Safi,Safi,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,316.79,316.79,0.0,316.79,205.91,Orange Money,6,0.48,Medium
+OR-MAR-2026-10174,2025-08-16,Marrakech-Safi,Marrakech,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,268.51,268.51,40.28,228.23,148.35,Cash in Store,8,0.42,Medium
+OR-MAR-2026-10175,2025-08-17,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,148.94,148.94,0.0,148.94,59.58,Cash in Store,9,0.49,Medium
+OR-MAR-2026-10176,2025-08-18,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,205.62,205.62,10.28,195.34,126.97,Orange Money,10,0.08,Low
+OR-MAR-2026-10177,2025-08-22,Casablanca-Settat,Casablanca,B2B - Enterprise,Smart Router & Hardware Add-ons,B2B Field Sales,1,666.94,666.94,0.0,666.94,166.74,Orange Money,10,0.34,Medium
+OR-MAR-2026-10178,2025-08-26,Marrakech-Safi,Safi,B2C - Families,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,5529.22,5529.22,0.0,5529.22,3041.07,Cash in Store,6,0.18,Low
+OR-MAR-2026-10179,2025-08-26,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Fibre Optique High-Speed,Tele-sales / Call Center,1,598.7,598.7,59.87,538.83,404.12,Cash in Store,7,0.61,High
+OR-MAR-2026-10180,2025-08-26,Marrakech-Safi,Safi,B2B - Enterprise,Prepaid Recharge & Pass,B2B Field Sales,1,98.28,98.28,0.0,98.28,39.31,Direct Debit (Prélèvement),10,0.62,High
+OR-MAR-2026-10181,2025-08-27,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - SME,Fibre Optique High-Speed,Online Portal (Orange.ma),1,307.98,307.98,0.0,307.98,230.98,Direct Debit (Prélèvement),1,0.53,Medium
+OR-MAR-2026-10182,2025-08-27,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - SME,Smart Router & Hardware Add-ons,B2B Field Sales,1,941.57,941.57,47.08,894.49,223.62,Cash in Store,7,0.51,Medium
+OR-MAR-2026-10183,2025-08-27,Casablanca-Settat,Casablanca,B2C - Youth,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,464.29,464.29,23.21,441.08,110.27,Credit Card / CMI,3,0.8,High
+OR-MAR-2026-10184,2025-08-28,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),1,7346.12,7346.12,734.61,6611.51,3636.33,Cash in Store,4,0.16,Low
+OR-MAR-2026-10185,2025-08-30,Casablanca-Settat,El Jadida,B2B - SME,Fibre Optique High-Speed,Authorized Retailers,1,423.74,423.74,42.37,381.37,286.03,Cash in Store,9,0.65,High
+OR-MAR-2026-10186,2025-08-30,Rabat-Salé-Kénitra,Rabat,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,116.12,116.12,0.0,116.12,75.48,Cash in Store,8,0.83,High
+OR-MAR-2026-10187,2025-08-30,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - SME,Enterprise Cloud & 5G Solutions,B2B Field Sales,1,3157.41,3157.41,473.61,2683.8,1476.09,Orange Money,2,0.78,High
+OR-MAR-2026-10188,2025-08-31,Casablanca-Settat,Mohammedia,B2B - SME,Fibre Optique High-Speed,B2B Field Sales,2,387.94,775.88,0.0,775.88,581.91,Direct Debit (Prélèvement),8,0.5,Medium
+OR-MAR-2026-10189,2025-08-31,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Fibre Optique High-Speed,Online Portal (Orange.ma),1,353.06,353.06,70.61,282.45,211.84,Orange Money,3,0.63,High
+OR-MAR-2026-10190,2025-09-01,Rabat-Salé-Kénitra,Kénitra,B2C - Families,Fibre Optique High-Speed,Orange Store / Boutique,2,627.81,1255.62,0.0,1255.62,941.71,Credit Card / CMI,5,0.23,Low
+OR-MAR-2026-10191,2025-09-01,Casablanca-Settat,Mohammedia,B2C - Premium,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,88.04,88.04,13.21,74.83,29.93,Orange Money,9,0.68,High
+OR-MAR-2026-10192,2025-09-04,Rabat-Salé-Kénitra,Salé,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,353.08,353.08,0.0,353.08,229.5,Cash in Store,10,0.42,Medium
+OR-MAR-2026-10193,2025-09-05,Rabat-Salé-Kénitra,Kénitra,B2C - Premium,Fibre Optique High-Speed,Online Portal (Orange.ma),1,273.91,273.91,27.39,246.52,184.89,Cash in Store,3,0.68,High
+OR-MAR-2026-10194,2025-09-09,Casablanca-Settat,Casablanca,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,198.06,198.06,9.9,188.16,122.3,Cash in Store,9,0.5,Medium
+OR-MAR-2026-10195,2025-09-09,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - SME,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,32.24,32.24,0.0,32.24,12.9,Cash in Store,3,0.13,Low
+OR-MAR-2026-10196,2025-09-09,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Fibre Optique High-Speed,Online Portal (Orange.ma),2,559.24,1118.48,0.0,1118.48,838.86,Orange Money,9,0.51,Medium
+OR-MAR-2026-10197,2025-09-10,Casablanca-Settat,Casablanca,B2B - SME,Fibre Optique High-Speed,Authorized Retailers,1,615.04,615.04,0.0,615.04,461.28,Direct Debit (Prélèvement),2,0.3,Low
+OR-MAR-2026-10198,2025-09-13,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,394.06,394.06,0.0,394.06,256.14,Credit Card / CMI,5,0.4,Medium
+OR-MAR-2026-10199,2025-09-13,Souss-Massa,Agadir,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,2,2058.8,4117.6,0.0,4117.6,2264.68,Credit Card / CMI,7,0.15,Low
+OR-MAR-2026-10200,2025-09-14,Marrakech-Safi,Safi,B2C - Youth,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,1278.78,1278.78,0.0,1278.78,319.7,Orange Money,3,0.47,Medium
+OR-MAR-2026-10201,2025-09-15,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,318.45,318.45,47.77,270.68,175.94,Cash in Store,6,0.62,High
+OR-MAR-2026-10202,2025-09-19,Souss-Massa,Agadir,B2B - SME,Smart Router & Hardware Add-ons,B2B Field Sales,1,950.67,950.67,0.0,950.67,237.67,Cash in Store,10,0.25,Low
+OR-MAR-2026-10203,2025-09-20,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Prepaid Recharge & Pass,Online Portal (Orange.ma),2,74.62,149.24,14.92,134.32,53.73,Cash in Store,9,0.4,Medium
+OR-MAR-2026-10204,2025-09-22,Rabat-Salé-Kénitra,Rabat,B2C - Families,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,7359.28,7359.28,0.0,7359.28,4047.6,Cash in Store,2,0.3,Low
+OR-MAR-2026-10205,2025-09-22,Casablanca-Settat,El Jadida,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,2,295.58,591.16,0.0,591.16,384.25,Credit Card / CMI,10,0.46,Medium
+OR-MAR-2026-10206,2025-09-22,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,190.18,190.18,28.53,161.65,105.07,Cash in Store,7,0.7,High
+OR-MAR-2026-10207,2025-09-28,Marrakech-Safi,Safi,B2B - SME,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,133.65,133.65,0.0,133.65,53.46,Direct Debit (Prélèvement),5,0.49,Medium
+OR-MAR-2026-10208,2025-09-29,Rabat-Salé-Kénitra,Kénitra,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,225.76,225.76,22.58,203.18,132.07,Direct Debit (Prélèvement),3,0.83,High
+OR-MAR-2026-10209,2025-10-01,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Youth,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,8367.13,8367.13,418.36,7948.77,4371.82,Credit Card / CMI,3,0.75,High
+OR-MAR-2026-10210,2025-10-01,Casablanca-Settat,Casablanca,B2C - Youth,Fibre Optique High-Speed,Authorized Retailers,1,287.61,287.61,0.0,287.61,215.71,Direct Debit (Prélèvement),5,0.29,Low
+OR-MAR-2026-10211,2025-10-02,Marrakech-Safi,Marrakech,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,2,369.87,739.74,36.99,702.75,456.79,Cash in Store,1,0.28,Low
+OR-MAR-2026-10212,2025-10-03,Rabat-Salé-Kénitra,Salé,B2B - SME,Enterprise Cloud & 5G Solutions,B2B Field Sales,1,5006.55,5006.55,500.66,4505.89,2478.24,Orange Money,1,0.64,High
+OR-MAR-2026-10213,2025-10-05,Fès-Meknès,Meknès,B2B - SME,Enterprise Cloud & 5G Solutions,Authorized Retailers,5,1672.21,8361.05,0.0,8361.05,4598.58,Cash in Store,9,0.32,Medium
+OR-MAR-2026-10214,2025-10-05,Rabat-Salé-Kénitra,Rabat,B2B - SME,Prepaid Recharge & Pass,Authorized Retailers,1,96.92,96.92,0.0,96.92,38.77,Orange Money,4,0.36,Medium
+OR-MAR-2026-10215,2025-10-05,Souss-Massa,Agadir,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,180.47,180.47,36.09,144.38,93.85,Credit Card / CMI,1,0.08,Low
+OR-MAR-2026-10216,2025-10-07,Casablanca-Settat,El Jadida,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,390.46,390.46,0.0,390.46,253.8,Orange Money,4,0.22,Low
+OR-MAR-2026-10217,2025-10-07,Rabat-Salé-Kénitra,Rabat,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,164.72,164.72,0.0,164.72,107.07,Credit Card / CMI,5,0.51,Medium
+OR-MAR-2026-10218,2025-10-10,Rabat-Salé-Kénitra,Salé,B2C - Premium,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,696.02,696.02,34.8,661.22,165.3,Direct Debit (Prélèvement),7,0.51,Medium
+OR-MAR-2026-10219,2025-10-11,Rabat-Salé-Kénitra,Kénitra,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,2,234.18,468.36,0.0,468.36,304.43,Orange Money,8,0.78,High
+OR-MAR-2026-10220,2025-10-12,Casablanca-Settat,Casablanca,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,2,578.52,1157.04,115.7,1041.34,781.0,Direct Debit (Prélèvement),7,0.62,High
+OR-MAR-2026-10221,2025-10-13,Casablanca-Settat,El Jadida,B2C - Families,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,3073.87,3073.87,307.39,2766.48,1521.56,Cash in Store,5,0.15,Low
+OR-MAR-2026-10222,2025-10-13,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,123.05,123.05,18.46,104.59,67.98,Direct Debit (Prélèvement),10,0.34,Medium
+OR-MAR-2026-10223,2025-10-13,Rabat-Salé-Kénitra,Salé,B2C - Premium,Prepaid Recharge & Pass,Authorized Retailers,1,138.73,138.73,20.81,117.92,47.17,Credit Card / CMI,5,0.77,High
+OR-MAR-2026-10224,2025-10-15,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,102.51,102.51,0.0,102.51,66.63,Credit Card / CMI,10,0.78,High
+OR-MAR-2026-10225,2025-10-16,Rabat-Salé-Kénitra,Kénitra,B2C - Families,Fibre Optique High-Speed,B2B Field Sales,1,575.69,575.69,0.0,575.69,431.77,Direct Debit (Prélèvement),4,0.59,Medium
+OR-MAR-2026-10226,2025-10-16,Rabat-Salé-Kénitra,Salé,B2B - SME,Enterprise Cloud & 5G Solutions,Authorized Retailers,2,4458.86,8917.72,891.77,8025.95,4414.27,Cash in Store,9,0.39,Medium
+OR-MAR-2026-10227,2025-10-20,Fès-Meknès,Meknès,B2B - SME,Fibre Optique High-Speed,Online Portal (Orange.ma),1,489.43,489.43,24.47,464.96,348.72,Orange Money,5,0.57,Medium
+OR-MAR-2026-10228,2025-10-21,Fès-Meknès,Fès,B2C - Premium,Smart Router & Hardware Add-ons,B2B Field Sales,1,638.77,638.77,0.0,638.77,159.69,Cash in Store,1,0.13,Low
+OR-MAR-2026-10229,2025-10-21,Marrakech-Safi,Safi,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,5435.62,5435.62,0.0,5435.62,2989.59,Cash in Store,2,0.44,Medium
+OR-MAR-2026-10230,2025-10-21,Souss-Massa,Agadir,B2C - Premium,Fibre Optique High-Speed,B2B Field Sales,1,303.32,303.32,0.0,303.32,227.49,Credit Card / CMI,10,0.37,Medium
+OR-MAR-2026-10231,2025-10-21,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - Enterprise,Fibre Optique High-Speed,Authorized Retailers,1,301.02,301.02,0.0,301.02,225.76,Cash in Store,3,0.76,High
+OR-MAR-2026-10232,2025-10-24,Souss-Massa,Agadir,B2B - Enterprise,Fibre Optique High-Speed,Orange Store / Boutique,1,284.28,284.28,0.0,284.28,213.21,Orange Money,6,0.48,Medium
+OR-MAR-2026-10233,2025-10-24,Rabat-Salé-Kénitra,Rabat,B2C - Families,Fibre Optique High-Speed,Online Portal (Orange.ma),1,553.76,553.76,0.0,553.76,415.32,Orange Money,3,0.19,Low
+OR-MAR-2026-10234,2025-10-24,Casablanca-Settat,Casablanca,B2C - Premium,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,856.71,856.71,42.84,813.87,203.47,Direct Debit (Prélèvement),2,0.44,Medium
+OR-MAR-2026-10235,2025-10-24,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,5750.86,5750.86,287.54,5463.32,3004.83,Orange Money,8,0.08,Low
+OR-MAR-2026-10236,2025-10-25,Marrakech-Safi,Safi,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,2,388.21,776.42,77.64,698.78,454.21,Direct Debit (Prélèvement),6,0.15,Low
+OR-MAR-2026-10237,2025-10-27,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,3,3213.1,9639.3,1445.89,8193.41,4506.38,Cash in Store,3,0.46,Medium
+OR-MAR-2026-10238,2025-10-29,Rabat-Salé-Kénitra,Salé,B2C - Premium,Prepaid Recharge & Pass,B2B Field Sales,1,68.79,68.79,0.0,68.79,27.52,Orange Money,9,0.34,Medium
+OR-MAR-2026-10239,2025-10-29,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,1,426.38,426.38,21.32,405.06,303.8,Orange Money,9,0.1,Low
+OR-MAR-2026-10240,2025-10-30,Rabat-Salé-Kénitra,Rabat,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,171.11,171.11,0.0,171.11,111.22,Cash in Store,7,0.07,Low
+OR-MAR-2026-10241,2025-11-02,Fès-Meknès,Meknès,B2C - Families,Prepaid Recharge & Pass,Authorized Retailers,1,110.03,110.03,0.0,110.03,44.01,Cash in Store,9,0.27,Low
+OR-MAR-2026-10242,2025-11-03,Rabat-Salé-Kénitra,Salé,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,398.35,398.35,39.84,358.51,233.03,Orange Money,4,0.72,High
+OR-MAR-2026-10243,2025-11-04,Casablanca-Settat,Casablanca,B2C - Premium,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,6813.14,6813.14,681.31,6131.83,3372.51,Direct Debit (Prélèvement),2,0.13,Low
+OR-MAR-2026-10244,2025-11-05,Rabat-Salé-Kénitra,Salé,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,305.22,305.22,0.0,305.22,198.39,Direct Debit (Prélèvement),2,0.05,Low
+OR-MAR-2026-10245,2025-11-07,Rabat-Salé-Kénitra,Salé,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,249.19,249.19,24.92,224.27,145.78,Cash in Store,2,0.62,High
+OR-MAR-2026-10246,2025-11-11,Casablanca-Settat,Mohammedia,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,2,340.04,680.08,0.0,680.08,442.05,Orange Money,7,0.43,Medium
+OR-MAR-2026-10247,2025-11-17,Rabat-Salé-Kénitra,Salé,B2C - Families,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,902.49,902.49,45.12,857.37,214.34,Credit Card / CMI,10,0.71,High
+OR-MAR-2026-10248,2025-11-17,Casablanca-Settat,Mohammedia,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,313.19,313.19,31.32,281.87,183.22,Cash in Store,7,0.63,High
+OR-MAR-2026-10249,2025-11-17,Rabat-Salé-Kénitra,Salé,B2C - Youth,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,2,7213.58,14427.16,0.0,14427.16,7934.94,Credit Card / CMI,1,0.46,Medium
+OR-MAR-2026-10250,2025-11-17,Marrakech-Safi,Safi,B2B - SME,Prepaid Recharge & Pass,Tele-sales / Call Center,1,28.15,28.15,0.0,28.15,11.26,Cash in Store,9,0.12,Low
+OR-MAR-2026-10251,2025-11-18,Casablanca-Settat,Casablanca,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),2,268.5,537.0,26.85,510.15,331.6,Cash in Store,3,0.78,High
+OR-MAR-2026-10252,2025-11-18,Fès-Meknès,Fès,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,305.11,305.11,0.0,305.11,198.32,Direct Debit (Prélèvement),8,0.59,Medium
+OR-MAR-2026-10253,2025-11-19,Casablanca-Settat,Casablanca,B2C - Youth,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,2534.49,2534.49,0.0,2534.49,1393.97,Direct Debit (Prélèvement),9,0.13,Low
+OR-MAR-2026-10254,2025-11-19,Marrakech-Safi,Marrakech,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,2,207.02,414.04,20.7,393.34,255.67,Direct Debit (Prélèvement),2,0.56,Medium
+OR-MAR-2026-10255,2025-11-21,Rabat-Salé-Kénitra,Kénitra,B2C - Youth,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,2,4240.48,8480.96,1272.14,7208.82,3964.85,Cash in Store,6,0.43,Medium
+OR-MAR-2026-10256,2025-11-21,Marrakech-Safi,Safi,B2C - Families,Prepaid Recharge & Pass,Authorized Retailers,1,99.01,99.01,0.0,99.01,39.6,Cash in Store,3,0.3,Low
+OR-MAR-2026-10257,2025-11-22,Casablanca-Settat,Mohammedia,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,366.06,366.06,0.0,366.06,237.94,Orange Money,6,0.68,High
+OR-MAR-2026-10258,2025-11-23,Casablanca-Settat,Casablanca,B2B - SME,Prepaid Recharge & Pass,Orange Store / Boutique,2,51.45,102.9,10.29,92.61,37.04,Direct Debit (Prélèvement),10,0.08,Low
+OR-MAR-2026-10259,2025-11-25,Rabat-Salé-Kénitra,Rabat,B2B - SME,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),1,565.68,565.68,84.85,480.83,120.21,Cash in Store,10,0.59,Medium
+OR-MAR-2026-10260,2025-11-26,Rabat-Salé-Kénitra,Kénitra,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),2,138.46,276.92,13.85,263.07,171.0,Credit Card / CMI,9,0.15,Low
+OR-MAR-2026-10261,2025-11-26,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Fibre Optique High-Speed,Authorized Retailers,1,544.61,544.61,27.23,517.38,388.04,Direct Debit (Prélèvement),5,0.57,Medium
+OR-MAR-2026-10262,2025-11-27,Fès-Meknès,Fès,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,368.57,368.57,36.86,331.71,215.61,Orange Money,4,0.77,High
+OR-MAR-2026-10263,2025-11-28,Casablanca-Settat,Mohammedia,B2C - Families,Prepaid Recharge & Pass,Authorized Retailers,1,81.54,81.54,4.08,77.46,30.98,Orange Money,8,0.8,High
+OR-MAR-2026-10264,2025-12-01,Rabat-Salé-Kénitra,Salé,B2B - SME,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,92.97,92.97,0.0,92.97,37.19,Credit Card / CMI,7,0.16,Low
+OR-MAR-2026-10265,2025-12-02,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Prepaid Recharge & Pass,Authorized Retailers,1,39.11,39.11,1.96,37.15,14.86,Cash in Store,1,0.33,Medium
+OR-MAR-2026-10266,2025-12-02,Casablanca-Settat,Mohammedia,B2C - Families,Fibre Optique High-Speed,Orange Store / Boutique,1,605.06,605.06,0.0,605.06,453.79,Orange Money,5,0.45,Medium
+OR-MAR-2026-10267,2025-12-04,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Fibre Optique High-Speed,Online Portal (Orange.ma),1,369.77,369.77,0.0,369.77,277.33,Credit Card / CMI,5,0.55,Medium
+OR-MAR-2026-10268,2025-12-06,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - SME,Fibre Optique High-Speed,Tele-sales / Call Center,1,321.12,321.12,16.06,305.06,228.8,Direct Debit (Prélèvement),1,0.16,Low
+OR-MAR-2026-10269,2025-12-07,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Fibre Optique High-Speed,Authorized Retailers,1,512.65,512.65,25.63,487.02,365.26,Cash in Store,10,0.47,Medium
+OR-MAR-2026-10270,2025-12-07,Casablanca-Settat,Casablanca,B2B - SME,Smart Router & Hardware Add-ons,Authorized Retailers,1,475.1,475.1,0.0,475.1,118.78,Orange Money,3,0.64,High
+OR-MAR-2026-10271,2025-12-10,Fès-Meknès,Fès,B2B - SME,Fibre Optique High-Speed,Online Portal (Orange.ma),2,630.16,1260.32,0.0,1260.32,945.24,Orange Money,1,0.42,Medium
+OR-MAR-2026-10272,2025-12-11,Casablanca-Settat,Mohammedia,B2B - SME,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,4841.94,4841.94,0.0,4841.94,2663.07,Orange Money,10,0.69,High
+OR-MAR-2026-10273,2025-12-11,Casablanca-Settat,Mohammedia,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,1,572.31,572.31,0.0,572.31,429.23,Credit Card / CMI,10,0.77,High
+OR-MAR-2026-10274,2025-12-11,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Smart Router & Hardware Add-ons,B2B Field Sales,1,793.68,793.68,0.0,793.68,198.42,Direct Debit (Prélèvement),4,0.65,High
+OR-MAR-2026-10275,2025-12-15,Casablanca-Settat,El Jadida,B2B - Enterprise,Prepaid Recharge & Pass,Authorized Retailers,1,66.43,66.43,0.0,66.43,26.57,Credit Card / CMI,2,0.58,Medium
+OR-MAR-2026-10276,2025-12-19,Fès-Meknès,Meknès,B2B - Enterprise,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,400.8,400.8,0.0,400.8,100.2,Credit Card / CMI,10,0.82,High
+OR-MAR-2026-10277,2025-12-19,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,228.41,228.41,11.42,216.99,141.04,Orange Money,10,0.72,High
+OR-MAR-2026-10278,2025-12-19,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),1,1144.85,1144.85,114.48,1030.37,257.59,Orange Money,2,0.21,Low
+OR-MAR-2026-10279,2025-12-23,Casablanca-Settat,El Jadida,B2C - Premium,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,24.27,24.27,0.0,24.27,9.71,Direct Debit (Prélèvement),5,0.42,Medium
+OR-MAR-2026-10280,2025-12-23,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,317.02,317.02,0.0,317.02,206.06,Direct Debit (Prélèvement),2,0.75,High
+OR-MAR-2026-10281,2025-12-23,Casablanca-Settat,El Jadida,B2C - Youth,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,690.82,690.82,34.54,656.28,164.07,Orange Money,6,0.34,Medium
+OR-MAR-2026-10282,2025-12-23,Souss-Massa,Agadir,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,190.26,190.26,0.0,190.26,123.67,Cash in Store,6,0.64,High
+OR-MAR-2026-10283,2025-12-24,Marrakech-Safi,Marrakech,B2C - Premium,Enterprise Cloud & 5G Solutions,B2B Field Sales,3,5650.31,16950.93,1695.09,15255.84,8390.71,Direct Debit (Prélèvement),9,0.35,Medium
+OR-MAR-2026-10284,2025-12-26,Souss-Massa,Agadir,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,1,337.2,337.2,16.86,320.34,240.26,Credit Card / CMI,7,0.49,Medium
+OR-MAR-2026-10285,2025-12-26,Casablanca-Settat,Mohammedia,B2C - Youth,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,5,5461.54,27307.7,0.0,27307.7,15019.24,Direct Debit (Prélèvement),4,0.81,High
+OR-MAR-2026-10286,2025-12-26,Marrakech-Safi,Marrakech,B2C - Youth,Prepaid Recharge & Pass,Orange Store / Boutique,1,121.5,121.5,0.0,121.5,48.6,Direct Debit (Prélèvement),8,0.18,Low
+OR-MAR-2026-10287,2025-12-28,Marrakech-Safi,Marrakech,B2C - Youth,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,2090.82,2090.82,313.62,1777.2,977.46,Orange Money,2,0.7,High
+OR-MAR-2026-10288,2025-12-28,Casablanca-Settat,Mohammedia,B2B - Enterprise,Fibre Optique High-Speed,Authorized Retailers,2,640.41,1280.82,128.08,1152.74,864.56,Orange Money,7,0.49,Medium
+OR-MAR-2026-10289,2025-12-28,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Fibre Optique High-Speed,B2B Field Sales,2,403.89,807.78,0.0,807.78,605.84,Credit Card / CMI,3,0.06,Low
+OR-MAR-2026-10290,2025-12-30,Marrakech-Safi,Safi,B2C - Youth,Fibre Optique High-Speed,Orange Store / Boutique,1,342.99,342.99,34.3,308.69,231.52,Orange Money,1,0.48,Medium
+OR-MAR-2026-10291,2025-12-30,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Fibre Optique High-Speed,B2B Field Sales,2,296.4,592.8,59.28,533.52,400.14,Direct Debit (Prélèvement),10,0.7,High
+OR-MAR-2026-10292,2026-01-02,Casablanca-Settat,El Jadida,B2C - Families,Fibre Optique High-Speed,B2B Field Sales,1,575.56,575.56,0.0,575.56,431.67,Credit Card / CMI,7,0.77,High
+OR-MAR-2026-10293,2026-01-03,Casablanca-Settat,Casablanca,B2C - Youth,Fibre Optique High-Speed,Orange Store / Boutique,1,364.05,364.05,0.0,364.05,273.04,Credit Card / CMI,5,0.64,High
+OR-MAR-2026-10294,2026-01-03,Marrakech-Safi,Safi,B2C - Premium,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,3286.04,3286.04,164.3,3121.74,1716.96,Direct Debit (Prélèvement),2,0.21,Low
+OR-MAR-2026-10295,2026-01-08,Fès-Meknès,Fès,B2B - SME,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,6554.45,6554.45,655.44,5899.01,3244.46,Credit Card / CMI,8,0.27,Low
+OR-MAR-2026-10296,2026-01-10,Fès-Meknès,Meknès,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,254.61,254.61,50.92,203.69,132.4,Credit Card / CMI,9,0.64,High
+OR-MAR-2026-10297,2026-01-10,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,1,408.04,408.04,0.0,408.04,306.03,Credit Card / CMI,2,0.28,Low
+OR-MAR-2026-10298,2026-01-11,Marrakech-Safi,Safi,B2C - Youth,Prepaid Recharge & Pass,B2B Field Sales,1,30.01,30.01,6.0,24.01,9.6,Direct Debit (Prélèvement),6,0.61,High
+OR-MAR-2026-10299,2026-01-12,Marrakech-Safi,Marrakech,B2C - Families,Prepaid Recharge & Pass,B2B Field Sales,1,103.41,103.41,0.0,103.41,41.36,Cash in Store,9,0.62,High
+OR-MAR-2026-10300,2026-01-15,Rabat-Salé-Kénitra,Kénitra,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),2,278.3,556.6,83.49,473.11,307.52,Direct Debit (Prélèvement),10,0.54,Medium
+OR-MAR-2026-10301,2026-01-18,Marrakech-Safi,Safi,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,330.69,330.69,0.0,330.69,214.95,Cash in Store,1,0.06,Low
+OR-MAR-2026-10302,2026-01-20,Fès-Meknès,Fès,B2C - Youth,Fibre Optique High-Speed,Online Portal (Orange.ma),1,632.03,632.03,63.2,568.83,426.62,Credit Card / CMI,10,0.06,Low
+OR-MAR-2026-10303,2026-01-22,Casablanca-Settat,El Jadida,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,2,341.16,682.32,68.23,614.09,399.16,Cash in Store,10,0.85,High
+OR-MAR-2026-10304,2026-01-22,Marrakech-Safi,Marrakech,B2B - SME,Prepaid Recharge & Pass,Tele-sales / Call Center,1,111.11,111.11,5.56,105.55,42.22,Orange Money,1,0.22,Low
+OR-MAR-2026-10305,2026-01-22,Casablanca-Settat,Mohammedia,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,236.68,236.68,11.83,224.85,146.15,Credit Card / CMI,7,0.72,High
+OR-MAR-2026-10306,2026-01-22,Rabat-Salé-Kénitra,Kénitra,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,335.03,335.03,16.75,318.28,206.88,Orange Money,10,0.39,Medium
+OR-MAR-2026-10307,2026-01-22,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Fibre Optique High-Speed,Online Portal (Orange.ma),2,595.08,1190.16,178.52,1011.64,758.73,Credit Card / CMI,5,0.38,Medium
+OR-MAR-2026-10308,2026-01-26,Casablanca-Settat,Mohammedia,B2C - Families,Fibre Optique High-Speed,Authorized Retailers,1,426.02,426.02,63.9,362.12,271.59,Cash in Store,2,0.45,Medium
+OR-MAR-2026-10309,2026-01-26,Rabat-Salé-Kénitra,Rabat,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,276.07,276.07,0.0,276.07,179.45,Credit Card / CMI,1,0.66,High
+OR-MAR-2026-10310,2026-01-27,Casablanca-Settat,Casablanca,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,146.85,146.85,0.0,146.85,95.45,Direct Debit (Prélèvement),5,0.65,High
+OR-MAR-2026-10311,2026-01-29,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Fibre Optique High-Speed,B2B Field Sales,1,571.34,571.34,85.7,485.64,364.23,Orange Money,7,0.25,Low
+OR-MAR-2026-10312,2026-01-30,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),2,2777.24,5554.48,555.45,4999.03,2749.47,Cash in Store,10,0.27,Low
+OR-MAR-2026-10313,2026-01-30,Fès-Meknès,Fès,B2B - Enterprise,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,376.64,376.64,0.0,376.64,94.16,Cash in Store,10,0.76,High
+OR-MAR-2026-10314,2026-02-04,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - SME,Fibre Optique High-Speed,Tele-sales / Call Center,1,254.3,254.3,0.0,254.3,190.73,Direct Debit (Prélèvement),7,0.39,Medium
+OR-MAR-2026-10315,2026-02-05,Casablanca-Settat,Mohammedia,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,1,564.77,564.77,28.24,536.53,402.4,Credit Card / CMI,10,0.76,High
+OR-MAR-2026-10316,2026-02-07,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,254.77,254.77,0.0,254.77,165.6,Orange Money,8,0.54,Medium
+OR-MAR-2026-10317,2026-02-08,Rabat-Salé-Kénitra,Rabat,B2B - Enterprise,Fibre Optique High-Speed,Orange Store / Boutique,1,465.36,465.36,46.54,418.82,314.12,Orange Money,2,0.31,Medium
+OR-MAR-2026-10318,2026-02-09,Fès-Meknès,Meknès,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,382.53,382.53,0.0,382.53,248.64,Credit Card / CMI,7,0.16,Low
+OR-MAR-2026-10319,2026-02-09,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Fibre Optique High-Speed,Tele-sales / Call Center,1,607.27,607.27,30.36,576.91,432.68,Direct Debit (Prélèvement),1,0.54,Medium
+OR-MAR-2026-10320,2026-02-12,Casablanca-Settat,Casablanca,B2B - SME,Fibre Optique High-Speed,Orange Store / Boutique,1,603.25,603.25,60.32,542.93,407.2,Orange Money,9,0.48,Medium
+OR-MAR-2026-10321,2026-02-16,Rabat-Salé-Kénitra,Salé,B2C - Premium,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,4741.19,4741.19,474.12,4267.07,2346.89,Orange Money,3,0.73,High
+OR-MAR-2026-10322,2026-02-16,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,215.35,215.35,32.3,183.05,118.98,Direct Debit (Prélèvement),9,0.64,High
+OR-MAR-2026-10323,2026-02-17,Casablanca-Settat,Casablanca,B2B - Enterprise,Smart Router & Hardware Add-ons,Authorized Retailers,1,749.48,749.48,149.9,599.58,149.9,Direct Debit (Prélèvement),10,0.31,Medium
+OR-MAR-2026-10324,2026-02-18,Casablanca-Settat,Mohammedia,B2C - Premium,Fibre Optique High-Speed,Authorized Retailers,1,276.49,276.49,0.0,276.49,207.37,Cash in Store,10,0.33,Medium
+OR-MAR-2026-10325,2026-02-19,Casablanca-Settat,El Jadida,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),1,7348.98,7348.98,367.45,6981.53,3839.84,Orange Money,8,0.49,Medium
+OR-MAR-2026-10326,2026-02-21,Rabat-Salé-Kénitra,Rabat,B2B - SME,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,121.65,121.65,12.16,109.49,43.8,Direct Debit (Prélèvement),1,0.06,Low
+OR-MAR-2026-10327,2026-02-21,Marrakech-Safi,Marrakech,B2C - Youth,Fibre Optique High-Speed,Online Portal (Orange.ma),1,513.99,513.99,0.0,513.99,385.49,Orange Money,7,0.53,Medium
+OR-MAR-2026-10328,2026-02-22,Marrakech-Safi,Safi,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,2,5154.02,10308.04,0.0,10308.04,5669.42,Cash in Store,6,0.36,Medium
+OR-MAR-2026-10329,2026-02-23,Casablanca-Settat,Casablanca,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,2,226.46,452.92,22.65,430.27,279.68,Direct Debit (Prélèvement),2,0.16,Low
+OR-MAR-2026-10330,2026-02-26,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Premium,Smart Router & Hardware Add-ons,B2B Field Sales,1,730.09,730.09,36.5,693.59,173.4,Cash in Store,1,0.47,Medium
+OR-MAR-2026-10331,2026-02-26,Casablanca-Settat,Mohammedia,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,295.41,295.41,0.0,295.41,192.02,Cash in Store,7,0.84,High
+OR-MAR-2026-10332,2026-03-07,Casablanca-Settat,Casablanca,B2B - Enterprise,Prepaid Recharge & Pass,Tele-sales / Call Center,1,39.58,39.58,0.0,39.58,15.83,Cash in Store,3,0.71,High
+OR-MAR-2026-10333,2026-03-07,Casablanca-Settat,Mohammedia,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,4331.59,4331.59,216.58,4115.01,2263.26,Cash in Store,6,0.13,Low
+OR-MAR-2026-10334,2026-03-07,Casablanca-Settat,Mohammedia,B2C - Premium,Prepaid Recharge & Pass,Tele-sales / Call Center,1,145.74,145.74,21.86,123.88,49.55,Direct Debit (Prélèvement),10,0.05,Low
+OR-MAR-2026-10335,2026-03-09,Casablanca-Settat,El Jadida,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,2,376.24,752.48,112.87,639.61,479.71,Direct Debit (Prélèvement),6,0.5,Medium
+OR-MAR-2026-10336,2026-03-09,Casablanca-Settat,Casablanca,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,103.31,103.31,5.17,98.14,63.79,Cash in Store,10,0.5,Medium
+OR-MAR-2026-10337,2026-03-09,Rabat-Salé-Kénitra,Rabat,B2C - Families,Prepaid Recharge & Pass,B2B Field Sales,2,95.52,191.04,19.1,171.94,68.78,Orange Money,10,0.16,Low
+OR-MAR-2026-10338,2026-03-12,Casablanca-Settat,El Jadida,B2B - Enterprise,Enterprise Cloud & 5G Solutions,B2B Field Sales,1,3967.63,3967.63,198.38,3769.25,2073.09,Credit Card / CMI,3,0.4,Medium
+OR-MAR-2026-10339,2026-03-13,Marrakech-Safi,Marrakech,B2C - Families,Fibre Optique High-Speed,Tele-sales / Call Center,1,624.97,624.97,93.75,531.22,398.42,Cash in Store,7,0.74,High
+OR-MAR-2026-10340,2026-03-14,Fès-Meknès,Fès,B2C - Premium,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,27.07,27.07,5.41,21.66,8.66,Cash in Store,1,0.56,Medium
+OR-MAR-2026-10341,2026-03-14,Rabat-Salé-Kénitra,Salé,B2C - Families,Fibre Optique High-Speed,Authorized Retailers,1,516.1,516.1,0.0,516.1,387.08,Direct Debit (Prélèvement),1,0.54,Medium
+OR-MAR-2026-10342,2026-03-16,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Prepaid Recharge & Pass,Tele-sales / Call Center,1,138.33,138.33,27.67,110.66,44.26,Credit Card / CMI,2,0.51,Medium
+OR-MAR-2026-10343,2026-03-16,Marrakech-Safi,Safi,B2C - Families,Prepaid Recharge & Pass,Tele-sales / Call Center,1,97.07,97.07,0.0,97.07,38.83,Cash in Store,1,0.54,Medium
+OR-MAR-2026-10344,2026-03-17,Casablanca-Settat,Mohammedia,B2B - Enterprise,Prepaid Recharge & Pass,B2B Field Sales,2,47.46,94.92,14.24,80.68,32.27,Direct Debit (Prélèvement),7,0.28,Low
+OR-MAR-2026-10345,2026-03-17,Casablanca-Settat,El Jadida,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,368.21,368.21,73.64,294.57,191.47,Cash in Store,7,0.4,Medium
+OR-MAR-2026-10346,2026-03-17,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,3434.18,3434.18,343.42,3090.76,1699.92,Credit Card / CMI,2,0.43,Medium
+OR-MAR-2026-10347,2026-03-17,Casablanca-Settat,Mohammedia,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,230.54,230.54,46.11,184.43,119.88,Direct Debit (Prélèvement),8,0.17,Low
+OR-MAR-2026-10348,2026-03-19,Casablanca-Settat,Casablanca,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,137.9,137.9,0.0,137.9,89.64,Credit Card / CMI,4,0.22,Low
+OR-MAR-2026-10349,2026-03-21,Fès-Meknès,Meknès,B2C - Premium,Fibre Optique High-Speed,Online Portal (Orange.ma),1,594.86,594.86,0.0,594.86,446.14,Credit Card / CMI,5,0.43,Medium
+OR-MAR-2026-10350,2026-03-21,Rabat-Salé-Kénitra,Salé,B2C - Families,Fibre Optique High-Speed,Orange Store / Boutique,1,250.26,250.26,37.54,212.72,159.54,Orange Money,9,0.62,High
+OR-MAR-2026-10351,2026-03-21,Rabat-Salé-Kénitra,Rabat,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,203.12,203.12,40.62,162.5,105.62,Orange Money,7,0.72,High
+OR-MAR-2026-10352,2026-03-21,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - SME,Fibre Optique High-Speed,Authorized Retailers,1,327.07,327.07,32.71,294.36,220.77,Direct Debit (Prélèvement),6,0.72,High
+OR-MAR-2026-10353,2026-03-23,Casablanca-Settat,Mohammedia,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,308.56,308.56,15.43,293.13,190.53,Credit Card / CMI,1,0.7,High
+OR-MAR-2026-10354,2026-03-25,Rabat-Salé-Kénitra,Rabat,B2B - Enterprise,Fibre Optique High-Speed,Orange Store / Boutique,1,596.84,596.84,119.37,477.47,358.1,Cash in Store,6,0.16,Low
+OR-MAR-2026-10355,2026-03-25,Casablanca-Settat,Mohammedia,B2C - Youth,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,4782.58,4782.58,717.39,4065.19,2235.85,Direct Debit (Prélèvement),6,0.35,Medium
+OR-MAR-2026-10356,2026-04-03,Fès-Meknès,Meknès,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,266.04,266.04,26.6,239.44,155.64,Orange Money,9,0.25,Low
+OR-MAR-2026-10357,2026-04-03,Fès-Meknès,Fès,B2B - SME,Prepaid Recharge & Pass,Orange Store / Boutique,1,117.72,117.72,5.89,111.83,44.73,Credit Card / CMI,4,0.65,High
+OR-MAR-2026-10358,2026-04-04,Casablanca-Settat,Casablanca,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,1,286.51,286.51,42.98,243.53,182.65,Orange Money,10,0.68,High
+OR-MAR-2026-10359,2026-04-04,Rabat-Salé-Kénitra,Rabat,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,1,6328.16,6328.16,632.82,5695.34,3132.44,Credit Card / CMI,2,0.37,Medium
+OR-MAR-2026-10360,2026-04-04,Rabat-Salé-Kénitra,Kénitra,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,160.33,160.33,8.02,152.31,99.0,Direct Debit (Prélèvement),4,0.46,Medium
+OR-MAR-2026-10361,2026-04-04,Casablanca-Settat,Mohammedia,B2C - Premium,Prepaid Recharge & Pass,B2B Field Sales,1,76.96,76.96,0.0,76.96,30.78,Cash in Store,2,0.22,Low
+OR-MAR-2026-10362,2026-04-04,Casablanca-Settat,Casablanca,B2C - Youth,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,7879.25,7879.25,1181.89,6697.36,3683.55,Direct Debit (Prélèvement),8,0.21,Low
+OR-MAR-2026-10363,2026-04-09,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - Enterprise,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,47.4,47.4,7.11,40.29,16.12,Orange Money,3,0.47,Medium
+OR-MAR-2026-10364,2026-04-10,Casablanca-Settat,El Jadida,B2B - SME,Fibre Optique High-Speed,B2B Field Sales,2,261.04,522.08,26.1,495.98,371.98,Cash in Store,1,0.57,Medium
+OR-MAR-2026-10365,2026-04-11,Casablanca-Settat,Mohammedia,B2C - Premium,Prepaid Recharge & Pass,Orange Store / Boutique,1,97.95,97.95,0.0,97.95,39.18,Cash in Store,4,0.82,High
+OR-MAR-2026-10366,2026-04-13,Marrakech-Safi,Marrakech,B2C - Premium,Prepaid Recharge & Pass,B2B Field Sales,2,100.95,201.9,0.0,201.9,80.76,Cash in Store,1,0.12,Low
+OR-MAR-2026-10367,2026-04-13,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Youth,Smart Router & Hardware Add-ons,B2B Field Sales,1,1238.0,1238.0,0.0,1238.0,309.5,Cash in Store,8,0.53,Medium
+OR-MAR-2026-10368,2026-04-13,Casablanca-Settat,Casablanca,B2C - Youth,Fibre Optique High-Speed,Online Portal (Orange.ma),1,449.61,449.61,0.0,449.61,337.21,Cash in Store,10,0.57,Medium
+OR-MAR-2026-10369,2026-04-15,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,2,133.44,266.88,26.69,240.19,156.12,Credit Card / CMI,9,0.58,Medium
+OR-MAR-2026-10370,2026-04-18,Marrakech-Safi,Marrakech,B2C - Youth,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,3,7737.61,23212.83,0.0,23212.83,12767.06,Credit Card / CMI,2,0.2,Low
+OR-MAR-2026-10371,2026-04-19,Marrakech-Safi,Safi,B2C - Families,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,2,2075.2,4150.4,207.52,3942.88,2168.58,Direct Debit (Prélèvement),10,0.16,Low
+OR-MAR-2026-10372,2026-04-20,Rabat-Salé-Kénitra,Rabat,B2B - SME,Prepaid Recharge & Pass,Authorized Retailers,1,70.72,70.72,0.0,70.72,28.29,Direct Debit (Prélèvement),2,0.13,Low
+OR-MAR-2026-10373,2026-04-20,Rabat-Salé-Kénitra,Kénitra,B2B - Enterprise,Prepaid Recharge & Pass,B2B Field Sales,1,73.41,73.41,11.01,62.4,24.96,Orange Money,5,0.13,Low
+OR-MAR-2026-10374,2026-04-22,Rabat-Salé-Kénitra,Kénitra,B2B - SME,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,513.7,513.7,25.68,488.02,122.0,Cash in Store,3,0.58,Medium
+OR-MAR-2026-10375,2026-04-23,Casablanca-Settat,El Jadida,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,269.39,269.39,40.41,228.98,148.84,Credit Card / CMI,9,0.08,Low
+OR-MAR-2026-10376,2026-04-25,Rabat-Salé-Kénitra,Kénitra,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,133.71,133.71,6.69,127.02,82.56,Credit Card / CMI,1,0.16,Low
+OR-MAR-2026-10377,2026-04-28,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Prepaid Recharge & Pass,Orange Store / Boutique,2,29.94,59.88,5.99,53.89,21.56,Orange Money,6,0.22,Low
+OR-MAR-2026-10378,2026-04-29,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - Enterprise,Fibre Optique High-Speed,Tele-sales / Call Center,1,585.36,585.36,0.0,585.36,439.02,Cash in Store,1,0.27,Low
+OR-MAR-2026-10379,2026-04-29,Fès-Meknès,Meknès,B2C - Families,Prepaid Recharge & Pass,Tele-sales / Call Center,1,29.95,29.95,1.5,28.45,11.38,Direct Debit (Prélèvement),4,0.25,Low
+OR-MAR-2026-10380,2026-04-29,Marrakech-Safi,Safi,B2C - Premium,Fibre Optique High-Speed,Authorized Retailers,1,620.24,620.24,0.0,620.24,465.18,Direct Debit (Prélèvement),3,0.11,Low
+OR-MAR-2026-10381,2026-05-04,Casablanca-Settat,El Jadida,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,1,582.46,582.46,29.12,553.34,415.0,Cash in Store,2,0.13,Low
+OR-MAR-2026-10382,2026-05-04,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Premium,Prepaid Recharge & Pass,Authorized Retailers,1,105.56,105.56,0.0,105.56,42.22,Cash in Store,4,0.39,Medium
+OR-MAR-2026-10383,2026-05-06,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Prepaid Recharge & Pass,Orange Store / Boutique,1,50.08,50.08,5.01,45.07,18.03,Cash in Store,2,0.76,High
+OR-MAR-2026-10384,2026-05-06,Rabat-Salé-Kénitra,Kénitra,B2C - Families,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,101.88,101.88,10.19,91.69,36.68,Direct Debit (Prélèvement),5,0.67,High
+OR-MAR-2026-10385,2026-05-06,Marrakech-Safi,Marrakech,B2B - SME,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,6003.8,6003.8,900.57,5103.23,2806.78,Credit Card / CMI,4,0.66,High
+OR-MAR-2026-10386,2026-05-07,Casablanca-Settat,Mohammedia,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,263.24,263.24,39.49,223.75,145.44,Orange Money,10,0.06,Low
+OR-MAR-2026-10387,2026-05-07,Marrakech-Safi,Marrakech,B2C - Youth,Fibre Optique High-Speed,B2B Field Sales,1,540.35,540.35,27.02,513.33,385.0,Direct Debit (Prélèvement),4,0.36,Medium
+OR-MAR-2026-10388,2026-05-07,Casablanca-Settat,El Jadida,B2C - Youth,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),1,8482.65,8482.65,0.0,8482.65,4665.46,Credit Card / CMI,9,0.21,Low
+OR-MAR-2026-10389,2026-05-08,Marrakech-Safi,Marrakech,B2B - Enterprise,Fibre Optique High-Speed,Online Portal (Orange.ma),2,447.76,895.52,89.55,805.97,604.48,Orange Money,8,0.38,Medium
+OR-MAR-2026-10390,2026-05-10,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,216.93,216.93,0.0,216.93,141.0,Direct Debit (Prélèvement),2,0.11,Low
+OR-MAR-2026-10391,2026-05-10,Casablanca-Settat,Casablanca,B2B - SME,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),1,603.6,603.6,0.0,603.6,150.9,Credit Card / CMI,9,0.39,Medium
+OR-MAR-2026-10392,2026-05-10,Casablanca-Settat,Casablanca,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,356.39,356.39,53.46,302.93,196.9,Orange Money,10,0.52,Medium
+OR-MAR-2026-10393,2026-05-12,Rabat-Salé-Kénitra,Salé,B2B - SME,Fibre Optique High-Speed,Authorized Retailers,1,359.1,359.1,0.0,359.1,269.33,Orange Money,1,0.23,Low
+OR-MAR-2026-10394,2026-05-15,Casablanca-Settat,Casablanca,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,125.97,125.97,0.0,125.97,81.88,Credit Card / CMI,7,0.22,Low
+OR-MAR-2026-10395,2026-05-15,Marrakech-Safi,Safi,B2C - Premium,Fibre Optique High-Speed,Authorized Retailers,1,425.84,425.84,0.0,425.84,319.38,Orange Money,10,0.22,Low
+OR-MAR-2026-10396,2026-05-16,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - Enterprise,Fibre Optique High-Speed,Online Portal (Orange.ma),1,542.56,542.56,0.0,542.56,406.92,Orange Money,6,0.08,Low
+OR-MAR-2026-10397,2026-05-18,Casablanca-Settat,Mohammedia,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,291.45,291.45,43.72,247.73,161.02,Direct Debit (Prélèvement),9,0.23,Low
+OR-MAR-2026-10398,2026-05-22,Marrakech-Safi,Safi,B2B - Enterprise,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,127.39,127.39,12.74,114.65,45.86,Direct Debit (Prélèvement),4,0.58,Medium
+OR-MAR-2026-10399,2026-05-22,Rabat-Salé-Kénitra,Salé,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,395.93,395.93,0.0,395.93,257.35,Cash in Store,10,0.69,High
+OR-MAR-2026-10400,2026-05-26,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Families,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,3312.91,3312.91,165.65,3147.26,1730.99,Cash in Store,2,0.55,Medium
+OR-MAR-2026-10401,2026-05-26,Rabat-Salé-Kénitra,Salé,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,227.89,227.89,0.0,227.89,148.13,Credit Card / CMI,7,0.06,Low
+OR-MAR-2026-10402,2026-05-27,Casablanca-Settat,Casablanca,B2C - Families,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),1,8441.33,8441.33,0.0,8441.33,4642.73,Cash in Store,10,0.74,High
+OR-MAR-2026-10403,2026-05-27,Casablanca-Settat,El Jadida,B2C - Premium,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),1,972.84,972.84,0.0,972.84,243.21,Orange Money,1,0.81,High
+OR-MAR-2026-10404,2026-05-29,Marrakech-Safi,Safi,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,212.43,212.43,0.0,212.43,138.08,Orange Money,10,0.24,Low
+OR-MAR-2026-10405,2026-05-29,Marrakech-Safi,Safi,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,116.98,116.98,5.85,111.13,72.23,Cash in Store,9,0.85,High
+OR-MAR-2026-10406,2026-05-30,Rabat-Salé-Kénitra,Salé,B2C - Families,Fibre Optique High-Speed,Orange Store / Boutique,1,299.55,299.55,14.98,284.57,213.43,Credit Card / CMI,4,0.44,Medium
+OR-MAR-2026-10407,2026-05-30,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,2,298.15,596.3,0.0,596.3,387.6,Cash in Store,4,0.5,Medium
+OR-MAR-2026-10408,2026-06-03,Rabat-Salé-Kénitra,Salé,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,279.27,279.27,41.89,237.38,154.3,Direct Debit (Prélèvement),4,0.63,High
+OR-MAR-2026-10409,2026-06-03,Marrakech-Safi,Safi,B2B - Enterprise,Prepaid Recharge & Pass,B2B Field Sales,1,60.03,60.03,3.0,57.03,22.81,Cash in Store,5,0.58,Medium
+OR-MAR-2026-10410,2026-06-04,Casablanca-Settat,El Jadida,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,317.63,317.63,15.88,301.75,196.14,Direct Debit (Prélèvement),1,0.72,High
+OR-MAR-2026-10411,2026-06-07,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,219.61,219.61,21.96,197.65,128.47,Orange Money,5,0.62,High
+OR-MAR-2026-10412,2026-06-08,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,2,261.09,522.18,104.44,417.74,271.53,Direct Debit (Prélèvement),9,0.49,Medium
+OR-MAR-2026-10413,2026-06-12,Rabat-Salé-Kénitra,Salé,B2B - SME,Prepaid Recharge & Pass,Orange Store / Boutique,1,148.55,148.55,0.0,148.55,59.42,Direct Debit (Prélèvement),7,0.11,Low
+OR-MAR-2026-10414,2026-06-13,Souss-Massa,Agadir,B2C - Youth,Fibre Optique High-Speed,B2B Field Sales,2,461.75,923.5,184.7,738.8,554.1,Orange Money,10,0.43,Medium
+OR-MAR-2026-10415,2026-06-14,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,5523.8,5523.8,0.0,5523.8,3038.09,Cash in Store,5,0.51,Medium
+OR-MAR-2026-10416,2026-06-14,Rabat-Salé-Kénitra,Rabat,B2B - Enterprise,Enterprise Cloud & 5G Solutions,B2B Field Sales,10,4309.35,43093.5,0.0,43093.5,23701.43,Cash in Store,9,0.28,Low
+OR-MAR-2026-10417,2026-06-16,Rabat-Salé-Kénitra,Rabat,B2C - Families,Enterprise Cloud & 5G Solutions,B2B Field Sales,1,2632.59,2632.59,526.52,2106.07,1158.34,Cash in Store,7,0.52,Medium
+OR-MAR-2026-10418,2026-06-17,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,130.65,130.65,6.53,124.12,80.68,Credit Card / CMI,10,0.71,High
+OR-MAR-2026-10419,2026-06-18,Rabat-Salé-Kénitra,Kénitra,B2C - Premium,Prepaid Recharge & Pass,Orange Store / Boutique,1,52.8,52.8,2.64,50.16,20.06,Cash in Store,8,0.49,Medium
+OR-MAR-2026-10420,2026-06-19,Marrakech-Safi,Safi,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,2,371.32,742.64,74.26,668.38,434.45,Credit Card / CMI,3,0.78,High
+OR-MAR-2026-10421,2026-06-19,Marrakech-Safi,Safi,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,328.96,328.96,0.0,328.96,213.82,Credit Card / CMI,1,0.59,Medium
+OR-MAR-2026-10422,2026-06-19,Rabat-Salé-Kénitra,Salé,B2C - Families,Prepaid Recharge & Pass,Orange Store / Boutique,1,122.7,122.7,6.14,116.56,46.62,Direct Debit (Prélèvement),9,0.1,Low
+OR-MAR-2026-10423,2026-06-22,Casablanca-Settat,Mohammedia,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,2,296.43,592.86,0.0,592.86,385.36,Credit Card / CMI,8,0.84,High
+OR-MAR-2026-10424,2026-06-24,Rabat-Salé-Kénitra,Kénitra,B2C - Families,Prepaid Recharge & Pass,Orange Store / Boutique,1,79.47,79.47,0.0,79.47,31.79,Credit Card / CMI,7,0.57,Medium
+OR-MAR-2026-10425,2026-06-30,Casablanca-Settat,Mohammedia,B2C - Youth,Fibre Optique High-Speed,Authorized Retailers,1,489.72,489.72,0.0,489.72,367.29,Cash in Store,1,0.18,Low
+OR-MAR-2026-10426,2026-07-03,Casablanca-Settat,Casablanca,B2C - Youth,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,110.77,110.77,0.0,110.77,44.31,Cash in Store,3,0.14,Low
+OR-MAR-2026-10427,2026-07-03,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - SME,Fibre Optique High-Speed,Authorized Retailers,1,520.36,520.36,0.0,520.36,390.27,Direct Debit (Prélèvement),3,0.17,Low
+OR-MAR-2026-10428,2026-07-03,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,380.87,380.87,19.04,361.83,235.19,Credit Card / CMI,2,0.55,Medium
+OR-MAR-2026-10429,2026-07-07,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,381.26,381.26,57.19,324.07,210.65,Cash in Store,6,0.63,High
+OR-MAR-2026-10430,2026-07-10,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Families,Fibre Optique High-Speed,Orange Store / Boutique,2,481.26,962.52,48.13,914.39,685.79,Credit Card / CMI,5,0.68,High
+OR-MAR-2026-10431,2026-07-12,Casablanca-Settat,Casablanca,B2C - Families,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,1294.22,1294.22,64.71,1229.51,676.23,Cash in Store,4,0.07,Low
+OR-MAR-2026-10432,2026-07-14,Casablanca-Settat,El Jadida,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,236.8,236.8,35.52,201.28,130.83,Direct Debit (Prélèvement),10,0.4,Medium
+OR-MAR-2026-10433,2026-07-15,Rabat-Salé-Kénitra,Rabat,B2C - Youth,Fibre Optique High-Speed,Online Portal (Orange.ma),1,276.24,276.24,41.44,234.8,176.1,Direct Debit (Prélèvement),7,0.53,Medium
+OR-MAR-2026-10434,2026-07-16,Casablanca-Settat,El Jadida,B2C - Families,Fibre Optique High-Speed,Orange Store / Boutique,1,491.04,491.04,24.55,466.49,349.87,Direct Debit (Prélèvement),6,0.1,Low
+OR-MAR-2026-10435,2026-07-16,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,1,339.71,339.71,0.0,339.71,254.78,Cash in Store,3,0.2,Low
+OR-MAR-2026-10436,2026-07-17,Casablanca-Settat,El Jadida,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,218.34,218.34,0.0,218.34,141.92,Direct Debit (Prélèvement),4,0.06,Low
+OR-MAR-2026-10437,2026-07-19,Casablanca-Settat,El Jadida,B2C - Youth,Fibre Optique High-Speed,Tele-sales / Call Center,1,646.83,646.83,0.0,646.83,485.12,Credit Card / CMI,7,0.13,Low
+OR-MAR-2026-10438,2026-07-19,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Youth,Fibre Optique High-Speed,Orange Store / Boutique,1,507.23,507.23,76.08,431.15,323.36,Orange Money,2,0.19,Low
+OR-MAR-2026-10439,2026-07-20,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,1,347.34,347.34,69.47,277.87,208.4,Orange Money,9,0.16,Low
+OR-MAR-2026-10440,2026-07-20,Casablanca-Settat,Mohammedia,B2B - SME,Prepaid Recharge & Pass,Orange Store / Boutique,1,42.08,42.08,0.0,42.08,16.83,Orange Money,1,0.07,Low
+OR-MAR-2026-10441,2026-07-21,Casablanca-Settat,El Jadida,B2B - Enterprise,Smart Router & Hardware Add-ons,Tele-sales / Call Center,2,848.86,1697.72,0.0,1697.72,424.43,Credit Card / CMI,5,0.13,Low
+OR-MAR-2026-10442,2026-07-23,Marrakech-Safi,Safi,B2C - Families,Prepaid Recharge & Pass,Tele-sales / Call Center,1,91.1,91.1,13.66,77.44,30.98,Direct Debit (Prélèvement),9,0.57,Medium
+OR-MAR-2026-10443,2026-07-23,Souss-Massa,Agadir,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,361.29,361.29,0.0,361.29,234.84,Credit Card / CMI,3,0.64,High
+OR-MAR-2026-10444,2026-07-23,Casablanca-Settat,Mohammedia,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,342.14,342.14,34.21,307.93,200.15,Orange Money,4,0.74,High
+OR-MAR-2026-10445,2026-07-23,Souss-Massa,Agadir,B2B - SME,Enterprise Cloud & 5G Solutions,Authorized Retailers,1,5961.61,5961.61,298.08,5663.53,3114.94,Credit Card / CMI,3,0.37,Medium
+OR-MAR-2026-10446,2026-07-23,Casablanca-Settat,El Jadida,B2C - Premium,Smart Router & Hardware Add-ons,Orange Store / Boutique,2,1178.6,2357.2,471.44,1885.76,471.44,Direct Debit (Prélèvement),7,0.44,Medium
+OR-MAR-2026-10447,2026-07-25,Rabat-Salé-Kénitra,Rabat,B2B - Enterprise,Prepaid Recharge & Pass,B2B Field Sales,1,94.83,94.83,0.0,94.83,37.93,Direct Debit (Prélèvement),2,0.11,Low
+OR-MAR-2026-10448,2026-07-26,Casablanca-Settat,Mohammedia,B2B - Enterprise,Fibre Optique High-Speed,Tele-sales / Call Center,1,266.33,266.33,0.0,266.33,199.75,Credit Card / CMI,9,0.69,High
+OR-MAR-2026-10449,2026-07-29,Rabat-Salé-Kénitra,Rabat,B2B - SME,Fibre Optique High-Speed,Orange Store / Boutique,1,302.27,302.27,0.0,302.27,226.7,Credit Card / CMI,9,0.2,Low
+OR-MAR-2026-10450,2026-08-01,Casablanca-Settat,Mohammedia,B2C - Premium,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),1,541.58,541.58,0.0,541.58,135.4,Orange Money,7,0.51,Medium
+OR-MAR-2026-10451,2026-08-01,Casablanca-Settat,Mohammedia,B2B - SME,Prepaid Recharge & Pass,Orange Store / Boutique,1,67.01,67.01,0.0,67.01,26.8,Cash in Store,9,0.07,Low
+OR-MAR-2026-10452,2026-08-03,Casablanca-Settat,Mohammedia,B2C - Youth,Enterprise Cloud & 5G Solutions,B2B Field Sales,2,5557.7,11115.4,0.0,11115.4,6113.47,Orange Money,1,0.31,Medium
+OR-MAR-2026-10453,2026-08-04,Casablanca-Settat,El Jadida,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,1,423.4,423.4,21.17,402.23,301.67,Credit Card / CMI,7,0.63,High
+OR-MAR-2026-10454,2026-08-04,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,219.09,219.09,0.0,219.09,142.41,Orange Money,9,0.28,Low
+OR-MAR-2026-10455,2026-08-04,Casablanca-Settat,El Jadida,B2B - Enterprise,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,111.91,111.91,11.19,100.72,40.29,Credit Card / CMI,4,0.85,High
+OR-MAR-2026-10456,2026-08-08,Casablanca-Settat,Casablanca,B2C - Premium,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,1,1559.31,1559.31,233.9,1325.41,728.98,Credit Card / CMI,3,0.77,High
+OR-MAR-2026-10457,2026-08-09,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - SME,Fibre Optique High-Speed,Online Portal (Orange.ma),2,391.63,783.26,0.0,783.26,587.44,Cash in Store,7,0.55,Medium
+OR-MAR-2026-10458,2026-08-09,Marrakech-Safi,Marrakech,B2B - SME,Fibre Optique High-Speed,Online Portal (Orange.ma),2,398.58,797.16,0.0,797.16,597.87,Credit Card / CMI,7,0.15,Low
+OR-MAR-2026-10459,2026-08-11,Souss-Massa,Agadir,B2C - Families,Fibre Optique High-Speed,B2B Field Sales,1,501.81,501.81,0.0,501.81,376.36,Orange Money,6,0.3,Low
+OR-MAR-2026-10460,2026-08-11,Casablanca-Settat,El Jadida,B2B - SME,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,2,256.02,512.04,51.2,460.84,299.55,Direct Debit (Prélèvement),9,0.31,Medium
+OR-MAR-2026-10461,2026-08-12,Tanger-Tétouan-Al Hoceïma,Tangier,B2C - Families,Prepaid Recharge & Pass,B2B Field Sales,1,103.4,103.4,10.34,93.06,37.22,Orange Money,4,0.44,Medium
+OR-MAR-2026-10462,2026-08-12,Casablanca-Settat,Casablanca,B2B - Enterprise,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),1,6931.11,6931.11,1039.67,5891.44,3240.29,Credit Card / CMI,9,0.09,Low
+OR-MAR-2026-10463,2026-08-13,Marrakech-Safi,Safi,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,190.81,190.81,0.0,190.81,124.03,Credit Card / CMI,10,0.12,Low
+OR-MAR-2026-10464,2026-08-15,Marrakech-Safi,Safi,B2B - Enterprise,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,1170.25,1170.25,117.02,1053.23,263.31,Cash in Store,1,0.53,Medium
+OR-MAR-2026-10465,2026-08-15,Marrakech-Safi,Safi,B2C - Premium,Prepaid Recharge & Pass,Orange Store / Boutique,1,102.99,102.99,15.45,87.54,35.02,Direct Debit (Prélèvement),6,0.12,Low
+OR-MAR-2026-10466,2026-08-18,Casablanca-Settat,El Jadida,B2C - Youth,Prepaid Recharge & Pass,B2B Field Sales,1,102.69,102.69,5.13,97.56,39.02,Cash in Store,3,0.68,High
+OR-MAR-2026-10467,2026-08-21,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Youth,Smart Router & Hardware Add-ons,Tele-sales / Call Center,1,701.22,701.22,70.12,631.1,157.78,Credit Card / CMI,8,0.16,Low
+OR-MAR-2026-10468,2026-08-22,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Fibre Optique High-Speed,B2B Field Sales,1,277.37,277.37,41.61,235.76,176.82,Cash in Store,9,0.16,Low
+OR-MAR-2026-10469,2026-08-22,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,520.52,520.52,0.0,520.52,130.13,Direct Debit (Prélèvement),2,0.18,Low
+OR-MAR-2026-10470,2026-08-23,Fès-Meknès,Fès,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,223.76,223.76,0.0,223.76,145.44,Cash in Store,5,0.58,Medium
+OR-MAR-2026-10471,2026-08-25,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Fibre Optique High-Speed,Orange Store / Boutique,2,576.05,1152.1,172.81,979.29,734.47,Direct Debit (Prélèvement),1,0.27,Low
+OR-MAR-2026-10472,2026-08-25,Tanger-Tétouan-Al Hoceïma,Tangier,B2B - SME,Prepaid Recharge & Pass,Tele-sales / Call Center,1,117.03,117.03,11.7,105.33,42.13,Cash in Store,3,0.09,Low
+OR-MAR-2026-10473,2026-08-26,Rabat-Salé-Kénitra,Salé,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),2,99.07,198.14,19.81,178.33,115.91,Orange Money,6,0.64,High
+OR-MAR-2026-10474,2026-08-26,Marrakech-Safi,Marrakech,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),B2B Field Sales,1,310.67,310.67,0.0,310.67,201.94,Orange Money,1,0.62,High
+OR-MAR-2026-10475,2026-08-26,Marrakech-Safi,Safi,B2B - Enterprise,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,531.73,531.73,0.0,531.73,132.93,Orange Money,8,0.69,High
+OR-MAR-2026-10476,2026-08-29,Marrakech-Safi,Marrakech,B2C - Families,Prepaid Recharge & Pass,B2B Field Sales,2,86.16,172.32,25.85,146.47,58.59,Direct Debit (Prélèvement),2,0.42,Medium
+OR-MAR-2026-10477,2026-08-29,Tanger-Tétouan-Al Hoceïma,Tétouan,B2B - SME,Smart Router & Hardware Add-ons,Orange Store / Boutique,1,1053.57,1053.57,52.68,1000.89,250.22,Orange Money,2,0.13,Low
+OR-MAR-2026-10478,2026-08-30,Rabat-Salé-Kénitra,Rabat,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,1,220.04,220.04,22.0,198.04,128.73,Credit Card / CMI,6,0.84,High
+OR-MAR-2026-10479,2026-08-30,Casablanca-Settat,El Jadida,B2C - Premium,Postpaid Mobile (Offre Yo / Mobile),Tele-sales / Call Center,1,227.45,227.45,0.0,227.45,147.84,Direct Debit (Prélèvement),4,0.7,High
+OR-MAR-2026-10480,2026-08-31,Casablanca-Settat,Mohammedia,B2C - Premium,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,2,3677.06,7354.12,1470.82,5883.3,3235.82,Orange Money,8,0.28,Low
+OR-MAR-2026-10481,2026-08-31,Casablanca-Settat,El Jadida,B2C - Premium,Enterprise Cloud & 5G Solutions,Orange Store / Boutique,3,1512.0,4536.0,0.0,4536.0,2494.8,Orange Money,1,0.25,Low
+OR-MAR-2026-10482,2026-09-01,Casablanca-Settat,El Jadida,B2C - Premium,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),1,1296.57,1296.57,129.66,1166.91,641.8,Direct Debit (Prélèvement),1,0.71,High
+OR-MAR-2026-10483,2026-09-05,Souss-Massa,Agadir,B2C - Families,Prepaid Recharge & Pass,B2B Field Sales,2,85.48,170.96,34.19,136.77,54.71,Orange Money,10,0.21,Low
+OR-MAR-2026-10484,2026-09-05,Rabat-Salé-Kénitra,Salé,B2C - Premium,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,73.46,73.46,0.0,73.46,29.38,Orange Money,2,0.23,Low
+OR-MAR-2026-10485,2026-09-09,Casablanca-Settat,Mohammedia,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Authorized Retailers,2,177.28,354.56,35.46,319.1,207.42,Orange Money,7,0.36,Medium
+OR-MAR-2026-10486,2026-09-09,Marrakech-Safi,Safi,B2C - Families,Enterprise Cloud & 5G Solutions,Tele-sales / Call Center,10,1993.38,19933.8,0.0,19933.8,10963.59,Direct Debit (Prélèvement),3,0.55,Medium
+OR-MAR-2026-10487,2026-09-10,Marrakech-Safi,Marrakech,B2C - Premium,Smart Router & Hardware Add-ons,Online Portal (Orange.ma),2,1216.65,2433.3,121.67,2311.63,577.91,Orange Money,7,0.71,High
+OR-MAR-2026-10488,2026-09-10,Casablanca-Settat,Mohammedia,B2C - Youth,Fibre Optique High-Speed,Authorized Retailers,1,308.4,308.4,30.84,277.56,208.17,Direct Debit (Prélèvement),1,0.21,Low
+OR-MAR-2026-10489,2026-09-10,Marrakech-Safi,Marrakech,B2B - SME,Prepaid Recharge & Pass,B2B Field Sales,1,98.12,98.12,0.0,98.12,39.25,Direct Debit (Prélèvement),1,0.2,Low
+OR-MAR-2026-10490,2026-09-15,Tanger-Tétouan-Al Hoceïma,Tétouan,B2C - Families,Fibre Optique High-Speed,Authorized Retailers,1,455.92,455.92,0.0,455.92,341.94,Orange Money,1,0.73,High
+OR-MAR-2026-10491,2026-09-17,Marrakech-Safi,Marrakech,B2C - Youth,Postpaid Mobile (Offre Yo / Mobile),Orange Store / Boutique,1,159.64,159.64,0.0,159.64,103.77,Credit Card / CMI,8,0.78,High
+OR-MAR-2026-10492,2026-09-17,Rabat-Salé-Kénitra,Salé,B2C - Premium,Enterprise Cloud & 5G Solutions,Online Portal (Orange.ma),1,3702.72,3702.72,185.14,3517.58,1934.67,Direct Debit (Prélèvement),5,0.49,Medium
+OR-MAR-2026-10493,2026-09-19,Casablanca-Settat,Mohammedia,B2C - Youth,Fibre Optique High-Speed,Online Portal (Orange.ma),1,327.18,327.18,49.08,278.1,208.58,Orange Money,9,0.76,High
+OR-MAR-2026-10494,2026-09-19,Casablanca-Settat,Mohammedia,B2C - Premium,Fibre Optique High-Speed,Tele-sales / Call Center,1,482.25,482.25,0.0,482.25,361.69,Credit Card / CMI,5,0.75,High
+OR-MAR-2026-10495,2026-09-21,Fès-Meknès,Fès,B2C - Families,Prepaid Recharge & Pass,B2B Field Sales,1,54.03,54.03,5.4,48.63,19.45,Orange Money,1,0.78,High
+OR-MAR-2026-10496,2026-09-26,Casablanca-Settat,Casablanca,B2B - SME,Fibre Optique High-Speed,Authorized Retailers,1,539.04,539.04,53.9,485.14,363.86,Credit Card / CMI,5,0.53,Medium
+OR-MAR-2026-10497,2026-09-26,Marrakech-Safi,Safi,B2B - Enterprise,Postpaid Mobile (Offre Yo / Mobile),Online Portal (Orange.ma),1,322.45,322.45,0.0,322.45,209.59,Cash in Store,7,0.34,Medium
+OR-MAR-2026-10498,2026-09-28,Rabat-Salé-Kénitra,Kénitra,B2C - Youth,Prepaid Recharge & Pass,Online Portal (Orange.ma),1,90.94,90.94,0.0,90.94,36.38,Cash in Store,4,0.22,Low
+OR-MAR-2026-10499,2026-09-30,Rabat-Salé-Kénitra,Salé,B2C - Youth,Smart Router & Hardware Add-ons,Authorized Retailers,1,726.11,726.11,108.92,617.19,154.3,Cash in Store,8,0.59,Medium
