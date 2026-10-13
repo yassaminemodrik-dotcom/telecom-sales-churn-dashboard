@@ -5,9 +5,9 @@
 
 · 📄 [PDF version](docs\telecom_analysis.pdf)
 
-![cover page]("C:\Users\E L I T E B O O K\OneDrive\Desktop\orange_analysis\docs\Cover_page.png")
-![page 1](docs\Dashboard_page_1.png)
-![page 2](docs\Dashboard_page_2.png)
+![cover page](docs/Cover_page.png)
+![page 1](docs/Dashboard_page_1.png)
+![page 2](docs/Dashboard_page_2.png)
 ![page 3](docs/Dashboard_page_3.png)
 ![page 4](docs/Dashboard_page_4.png)
 
